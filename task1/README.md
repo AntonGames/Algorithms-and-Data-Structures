@@ -1,1 +1,1 @@
-Abstract data type - Big Int
+Abstract data type - Big Integer
