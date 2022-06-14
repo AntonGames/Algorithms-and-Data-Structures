@@ -1,0 +1,6717 @@
+PIRMA DALIS. Duomenys
+
+  1. Anton Zagzin, 4 grupe, 2 pogrupis, 3 uzdavinis, 13 variantas
+  2. Uzduotis - kasko draudimas/autoservisas (ADT: prioritetine eile, ilgas sveikas skaicius)
+  3. Programos tikslas pamodeliuoti, kokia verslo logika servisui naudingiausia: 
+     tureti kuo daugiau bendradarbiavimo sutarciu, ar dirbti visai be ju
+  4. VIP francize: 1544456458 Lt
+  5. VIP priedas: 100000000 Lt
+  6. Francize: 1444456458 Lt
+  7. Darbuotojo valandine alga: 45457 Lt
+  8. Darbuotoju skaicius: 4
+  9. Tikimybe, kad masina pristatys VIP klientas: 40%
+  10. Tikimybe, kad masina pristatys paprastas klientas: 60%
+  11. Dienu skaicius: 500
+  12. Darbo valandu per diena: 8
+
+ANTRA DALIS. Vykdymas
+
+
+1 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  58686981640 Lt
+
+2 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 5 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  57142616096 Lt
+
+3 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+      1 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  37065409454 Lt
+
+4 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 20 val. is kuriu virsvalandziu 13 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  66408809360 Lt
+
+5 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  52509519464 Lt
+
+6 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  41698597000 Lt
+
+7 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 1 val.
+      3 VIP klientas uztruko 6 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 17 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  52509155808 Lt
+
+8 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   2 darbuotojas
+      1 klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 20 val. is kuriu virsvalandziu 16 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  100385033156 Lt
+
+9 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 18 val.
+      2 klientas uztruko 7 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  40153867800 Lt
+
+10 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  29343536277 Lt
+
+11 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  32432312822 Lt
+
+12 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  32432494650 Lt
+
+13 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  46331693632 Lt
+
+14 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  29343581734 Lt
+
+15 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  75675002624 Lt
+
+16 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 8 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 6 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 4 val.
+      3 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  43242962544 Lt
+
+17 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  54053839551 Lt
+
+18 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  66408627532 Lt
+
+19 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 2 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  44787600830 Lt
+
+20 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  26254850646 Lt
+
+21 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  30887674536 Lt
+
+22 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 5 val. is kuriu virsvalandziu 2 val.
+      3 klientas uztruko 4 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  27799307104 Lt
+
+23 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  35521316652 Lt
+
+24 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 7 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 8 val. is kuriu virsvalandziu 7 val.
+      3 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  74130864365 Lt
+
+25 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 13 val.
+      2 klientas uztruko 1 val.
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 15 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 25999488932 Lt
+Dienos pelnas su VIP sistema:  81852737542 Lt
+
+26 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val. is kuriu virsvalandziu 7 val.
+      2 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  74131000736 Lt
+
+27 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 13 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 2 val.
+      3 VIP klientas uztruko 5 val. is kuriu virsvalandziu 3 val.
+      4 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  97296483896 Lt
+
+28 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 6 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  44787691744 Lt
+
+29 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 10 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  57142616096 Lt
+
+30 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  21621481272 Lt
+
+31 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 klientas uztruko 1 val.
+   2 darbuotojas
+      1 klientas uztruko 1 val.
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  32432540107 Lt
+
+32 diena
+
+   1 darbuotojas
+      1 klientas uztruko 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  57142752467 Lt
+
+33 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 8 val.
+      2 klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 7 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  77219368168 Lt
+
+34 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+      1 klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 28888310934 Lt
+Dienos pelnas su VIP sistema:  57142797924 Lt
+
+35 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  67953356732 Lt
+
+36 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  50965153920 Lt
+
+37 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 4 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  18532932012 Lt
+
+38 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  46331830003 Lt
+
+39 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  20077115728 Lt
+
+40 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  43243235286 Lt
+
+41 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 17 val.
+      2 klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 14 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  72585907880 Lt
+
+42 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+      2 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 9 val.
+      2 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  38609865912 Lt
+
+43 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 1 val.
+      3 VIP klientas uztruko 4 val.
+      4 VIP klientas uztruko 9 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  47876059176 Lt
+
+44 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  44787691744 Lt
+
+45 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 1 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  30887992735 Lt
+
+46 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 klientas uztruko 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  50965017549 Lt
+
+47 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  27799352561 Lt
+
+48 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  35521134824 Lt
+
+49 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 6 val.
+      2 klientas uztruko 2 val.
+      3 klientas uztruko 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 5 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  72586271536 Lt
+
+50 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 7 val.
+   4 darbuotojas
+      1 klientas uztruko 2 val.
+      2 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  37065636739 Lt
+
+51 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  40154504198 Lt
+
+52 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  23165846816 Lt
+
+53 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  38609820455 Lt
+
+54 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  16988384640 Lt
+
+55 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  47876059176 Lt
+
+56 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 6 val.
+      2 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  52509519464 Lt
+
+57 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 1 val.
+      3 klientas uztruko 2 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 30332721935 Lt
+Dienos pelnas su VIP sistema:  61775940013 Lt
+
+58 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 1 val.
+      2 klientas uztruko 2 val.
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  15444110010 Lt
+
+59 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  30887947278 Lt
+
+60 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 6 val.
+      2 klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  78764097368 Lt
+
+61 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 5 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  13899653552 Lt
+
+62 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  54053794094 Lt
+
+63 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 16 val.
+      2 klientas uztruko 2 val.
+      3 klientas uztruko 2 val.
+   2 darbuotojas
+      1 klientas uztruko 4 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  43242780716 Lt
+
+64 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 16 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  58686981640 Lt
+
+65 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 5 val.
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  43243189829 Lt
+
+66 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 15 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 24555077931 Lt
+Dienos pelnas su VIP sistema:  54053703180 Lt
+
+67 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  63320078272 Lt
+
+68 diena
+
+   1 darbuotojas
+      1 klientas uztruko 2 val.
+   2 darbuotojas
+      1 klientas uztruko 2 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  23166028644 Lt
+
+69 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  26254668818 Lt
+
+70 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  20077115728 Lt
+
+71 diena
+
+   1 darbuotojas
+      1 klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  46331875460 Lt
+
+72 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  69497540448 Lt
+
+73 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  20077115728 Lt
+
+74 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 13 val.
+      2 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  63319941901 Lt
+
+75 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  37065682196 Lt
+
+76 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 3 val.
+      3 klientas uztruko 1 val.
+   3 darbuotojas
+      1 klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  24710530559 Lt
+
+77 diena
+
+   1 darbuotojas
+      1 klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  16988521011 Lt
+
+78 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 7 val.
+      2 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  50964881178 Lt
+
+79 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 16 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 16 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  63319714616 Lt
+
+80 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 7 val.
+      2 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  57142616096 Lt
+
+81 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+
+Dienos pelnas be VIP sistemos: 27443899933 Lt
+Dienos pelnas su VIP sistema:  57142752467 Lt
+
+82 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  52509337636 Lt
+
+83 diena
+
+   1 darbuotojas
+      1 klientas uztruko 2 val.
+      2 klientas uztruko 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 12 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  67953038533 Lt
+
+84 diena
+
+   1 darbuotojas
+      1 klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  43243144372 Lt
+
+85 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 8 val.
+      2 klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+      1 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  66408854817 Lt
+
+86 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  29343672648 Lt
+
+87 diena
+
+   1 darbuotojas
+      1 klientas uztruko 4 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 7 val.
+      2 klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 5 val.
+      2 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  49420606548 Lt
+
+88 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 15 val.
+      2 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  55597977810 Lt
+
+89 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 7 val. is kuriu virsvalandziu 6 val.
+      3 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  72586271536 Lt
+
+90 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 12 val.
+      2 klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  46331784546 Lt
+
+91 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 11 val.
+      2 klientas uztruko 5 val.
+      3 klientas uztruko 2 val.
+   4 darbuotojas
+      1 klientas uztruko 1 val.
+      2 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  40154185999 Lt
+
+92 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 10 val.
+      2 klientas uztruko 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 12 val.
+      2 klientas uztruko 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  72586271536 Lt
+
+93 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  0 Lt
+
+94 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  0 Lt
+
+95 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  58686981640 Lt
+
+96 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 9 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  41698597000 Lt
+
+97 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 20 val. is kuriu virsvalandziu 16 val.
+   3 darbuotojas
+      1 klientas uztruko 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  43242780716 Lt
+
+98 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 5 val.
+      2 klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  54053839551 Lt
+
+99 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 8 val. is kuriu virsvalandziu 3 val.
+      3 klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 klientas uztruko 3 val.
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  26254850646 Lt
+
+100 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 10 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 9 val.
+      2 klientas uztruko 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  75675002624 Lt
+
+101 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 10 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  55598250552 Lt
+
+102 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+      1 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  57142707010 Lt
+
+103 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 14 val.
+      2 klientas uztruko 5 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  50964790264 Lt
+
+104 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 3 val.
+      3 VIP klientas uztruko 13 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  63320078272 Lt
+
+105 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  64864671101 Lt
+
+106 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  13899653552 Lt
+
+107 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 5 val. is kuriu virsvalandziu 3 val.
+      3 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  41698597000 Lt
+
+108 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 5 val.
+      3 klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 5 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  30888129106 Lt
+
+109 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  29343308992 Lt
+
+110 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  43243008001 Lt
+
+111 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 14 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  49420424720 Lt
+
+112 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 13 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  40154413284 Lt
+
+113 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 15 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  43242962544 Lt
+
+114 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+      1 klientas uztruko 3 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  49420561091 Lt
+
+115 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  57142616096 Lt
+
+116 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 15 val. is kuriu virsvalandziu 13 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 3 val.
+   4 darbuotojas
+      1 klientas uztruko 1 val.
+      2 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 27443899933 Lt
+Dienos pelnas su VIP sistema:  67953402189 Lt
+
+117 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  33976496538 Lt
+
+118 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  32432403736 Lt
+
+119 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  40154231456 Lt
+
+120 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 31777132936 Lt
+Dienos pelnas su VIP sistema:  33977042022 Lt
+
+121 diena
+
+   1 darbuotojas
+      1 klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 11 val.
+      2 klientas uztruko 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 16 val.
+      3 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  91118839892 Lt
+
+122 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  40154231456 Lt
+
+123 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 9 val.
+      3 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  46331693632 Lt
+
+124 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 klientas uztruko 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  64864352902 Lt
+
+125 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  46332011831 Lt
+
+126 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  38609865912 Lt
+
+127 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  23165846816 Lt
+
+128 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 15 val.
+      2 klientas uztruko 7 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  35520771168 Lt
+
+129 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  63320078272 Lt
+
+130 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  52509655835 Lt
+
+131 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 16 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  29343308992 Lt
+
+132 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 15 val. is kuriu virsvalandziu 14 val.
+   3 darbuotojas
+      1 klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  67953038533 Lt
+
+133 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  37065363997 Lt
+
+134 diena
+
+   1 darbuotojas
+      1 klientas uztruko 3 val.
+   2 darbuotojas
+      1 klientas uztruko 5 val.
+   3 darbuotojas
+      1 klientas uztruko 7 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  23166165015 Lt
+
+135 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  54053657723 Lt
+
+136 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  9266466006 Lt
+
+137 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val. is kuriu virsvalandziu 2 val.
+      2 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  103473946072 Lt
+
+138 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 15 val.
+      3 klientas uztruko 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 8 val.
+      2 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  100385214984 Lt
+
+139 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 16 val. is kuriu virsvalandziu 15 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  57142252440 Lt
+
+140 diena
+
+   1 darbuotojas
+      1 klientas uztruko 3 val.
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  15444110010 Lt
+
+141 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  49420424720 Lt
+
+142 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  23166119558 Lt
+
+143 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 12 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  61775485443 Lt
+
+144 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 10 val. is kuriu virsvalandziu 5 val.
+   2 darbuotojas
+      1 klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  49420879290 Lt
+
+145 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 8 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  37065500368 Lt
+
+146 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 3 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  44787600830 Lt
+
+147 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  61775849099 Lt
+
+148 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+
+Dienos pelnas be VIP sistemos: 28888310934 Lt
+Dienos pelnas su VIP sistema:  50965335748 Lt
+
+149 diena
+
+   1 darbuotojas
+      1 klientas uztruko 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  23166165015 Lt
+
+150 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 7 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 15 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  97296483896 Lt
+
+151 diena
+
+   1 darbuotojas
+      1 klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  26254805189 Lt
+
+152 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 11 val.
+      2 klientas uztruko 2 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  37065363997 Lt
+
+153 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 25999488932 Lt
+Dienos pelnas su VIP sistema:  44787464459 Lt
+
+154 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 16 val.
+      2 klientas uztruko 4 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  58686663441 Lt
+
+155 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 13 val. is kuriu virsvalandziu 10 val.
+      3 klientas uztruko 2 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  78763733712 Lt
+
+156 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  52509474007 Lt
+
+157 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 2 val.
+      3 klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  47876286461 Lt
+
+158 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  9266466006 Lt
+
+159 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 13 val. is kuriu virsvalandziu 10 val.
+      3 klientas uztruko 2 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  63319987358 Lt
+
+160 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 13 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  44787328088 Lt
+
+161 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  41698915199 Lt
+
+162 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 7 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  15444110010 Lt
+
+163 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  43242962544 Lt
+
+164 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+      1 klientas uztruko 8 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 27443899933 Lt
+Dienos pelnas su VIP sistema:  60231483555 Lt
+
+165 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 6 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  50965153920 Lt
+
+166 diena
+
+   1 darbuotojas
+      1 klientas uztruko 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 10 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  37065454911 Lt
+
+167 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  24710212360 Lt
+
+168 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 16 val. is kuriu virsvalandziu 15 val.
+      3 klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 11 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 25999488932 Lt
+Dienos pelnas su VIP sistema:  77219368168 Lt
+
+169 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  20077115728 Lt
+
+170 diena
+
+   1 darbuotojas
+      1 klientas uztruko 2 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 15 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  38609593170 Lt
+
+171 diena
+
+   1 darbuotojas
+      1 klientas uztruko 4 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val. is kuriu virsvalandziu 5 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  30887992735 Lt
+
+172 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 16 val.
+      2 klientas uztruko 7 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 33221543937 Lt
+Dienos pelnas su VIP sistema:  61775712728 Lt
+
+173 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 33221543937 Lt
+Dienos pelnas su VIP sistema:  61776030927 Lt
+
+174 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  16988384640 Lt
+
+175 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 6 val. is kuriu virsvalandziu 3 val.
+      3 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 28888310934 Lt
+Dienos pelnas su VIP sistema:  40154549655 Lt
+
+176 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  41698778828 Lt
+
+177 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 7 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 8 val.
+      2 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  69497540448 Lt
+
+178 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 4 val.
+      2 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 13 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  46331739089 Lt
+
+179 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 16 val.
+      2 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  44787191717 Lt
+
+180 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  30887674536 Lt
+
+181 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 5 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val. is kuriu virsvalandziu 3 val.
+      2 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  32432403736 Lt
+
+182 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 14 val.
+      2 klientas uztruko 6 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  44787282631 Lt
+
+183 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 13 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  44787328088 Lt
+
+184 diena
+
+   1 darbuotojas
+      1 klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   3 darbuotojas
+      1 klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  46331830003 Lt
+
+185 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val. is kuriu virsvalandziu 3 val.
+      2 klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  43242962544 Lt
+
+186 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  0 Lt
+
+187 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  20077343013 Lt
+
+188 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  27798943448 Lt
+
+189 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 6 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  41698597000 Lt
+
+190 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 15 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  55597886896 Lt
+
+191 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 6 val.
+      2 klientas uztruko 1 val.
+      3 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  77219731824 Lt
+
+192 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 klientas uztruko 8 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  29343672648 Lt
+
+193 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  30887674536 Lt
+
+194 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+      2 klientas uztruko 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 11 val.
+      2 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val. is kuriu virsvalandziu 2 val.
+      2 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 30332721935 Lt
+Dienos pelnas su VIP sistema:  63320260100 Lt
+
+195 diena
+
+   1 darbuotojas
+      1 klientas uztruko 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 13 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  27799079819 Lt
+
+196 diena
+
+   1 darbuotojas
+      1 klientas uztruko 3 val.
+      2 klientas uztruko 2 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 8 val.
+      2 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  88030154261 Lt
+
+197 diena
+
+   1 darbuotojas
+      1 klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  44787509916 Lt
+
+198 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  52509428550 Lt
+
+199 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  43242962544 Lt
+
+200 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  30887901821 Lt
+
+201 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  27799307104 Lt
+
+202 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  57142570639 Lt
+
+203 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 8 val.
+      2 klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 15 val. is kuriu virsvalandziu 12 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  71041905992 Lt
+
+204 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  49420561091 Lt
+
+205 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  46331693632 Lt
+
+206 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 7 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 30332721935 Lt
+Dienos pelnas su VIP sistema:  60231574469 Lt
+
+207 diena
+
+   1 darbuotojas
+      1 klientas uztruko 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  43243189829 Lt
+
+208 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  38610047740 Lt
+
+209 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  21621617643 Lt
+
+210 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  78764006454 Lt
+
+211 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 13 val. is kuriu virsvalandziu 10 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  47876059176 Lt
+
+212 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 klientas uztruko 1 val.
+   4 darbuotojas
+      1 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  40154322370 Lt
+
+213 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  24710576016 Lt
+
+214 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  18532750184 Lt
+
+215 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 18 val.
+      3 klientas uztruko 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  64864261988 Lt
+
+216 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+      2 klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  38610229568 Lt
+
+217 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  15444019096 Lt
+
+218 diena
+
+   1 darbuotojas
+      1 klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 7 val.
+      2 klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  49420606548 Lt
+
+219 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 2 val.
+      2 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  7722055005 Lt
+
+220 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+      1 klientas uztruko 1 val.
+   3 darbuotojas
+      1 klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  54053794094 Lt
+
+221 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  50964790264 Lt
+
+222 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  20077343013 Lt
+
+223 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 14 val.
+      2 klientas uztruko 5 val.
+      3 klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  114284504880 Lt
+
+224 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 13 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 13 val.
+      2 klientas uztruko 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  64864080160 Lt
+
+225 diena
+
+   1 darbuotojas
+      1 klientas uztruko 3 val.
+   2 darbuotojas
+      1 klientas uztruko 2 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  7722055005 Lt
+
+226 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+      1 klientas uztruko 6 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  32432312822 Lt
+
+227 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 16 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 28888310934 Lt
+Dienos pelnas su VIP sistema:  57142479725 Lt
+
+228 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 8 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  49420970204 Lt
+
+229 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  7722055005 Lt
+
+230 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 6 val.
+      2 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  21621481272 Lt
+
+231 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  41698597000 Lt
+
+232 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+      2 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  32432312822 Lt
+
+233 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 5 val. is kuriu virsvalandziu 4 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  18532750184 Lt
+
+234 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 12 val.
+      3 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  92663387264 Lt
+
+235 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  69497494991 Lt
+
+236 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 20 val. is kuriu virsvalandziu 13 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 10 val.
+      2 klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  77219368168 Lt
+
+237 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 4 val.
+   4 darbuotojas
+      1 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 31777132936 Lt
+Dienos pelnas su VIP sistema:  33977042022 Lt
+
+238 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  49420742919 Lt
+
+239 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 3 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  12355288008 Lt
+
+240 diena
+
+   1 darbuotojas
+      1 klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  49420470177 Lt
+
+241 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 3 val. is kuriu virsvalandziu 2 val.
+      3 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  15444019096 Lt
+
+242 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val. is kuriu virsvalandziu 2 val.
+      2 klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 16 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  52509155808 Lt
+
+243 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  38609911369 Lt
+
+244 diena
+
+   1 darbuotojas
+      1 klientas uztruko 2 val.
+      2 klientas uztruko 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 klientas uztruko 6 val.
+      3 klientas uztruko 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  46331920917 Lt
+
+245 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  67953538560 Lt
+
+246 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  41698597000 Lt
+
+247 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 13 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  74130637080 Lt
+
+248 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 7 val.
+      2 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  54053521352 Lt
+
+249 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  23165846816 Lt
+
+250 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 7 val. is kuriu virsvalandziu 4 val.
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 25999488932 Lt
+Dienos pelnas su VIP sistema:  38610093197 Lt
+
+251 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 klientas uztruko 2 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  9266466006 Lt
+
+252 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 4 val.
+      3 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  55598250552 Lt
+
+253 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  32432585564 Lt
+
+254 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  47876286461 Lt
+
+255 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  49420652005 Lt
+
+256 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  13899653552 Lt
+
+257 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  77219549996 Lt
+
+258 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 7 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  55598250552 Lt
+
+259 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  46332057288 Lt
+
+260 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  50965063006 Lt
+
+261 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  72586271536 Lt
+
+262 diena
+
+   1 darbuotojas
+      1 klientas uztruko 4 val.
+      2 klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  49420788376 Lt
+
+263 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  24710212360 Lt
+
+264 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 13 val.
+      2 klientas uztruko 4 val.
+      3 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  78763733712 Lt
+
+265 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  46331920917 Lt
+
+266 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  41698642457 Lt
+
+267 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 6 val.
+      2 klientas uztruko 1 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 6 val.
+      2 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  55598250552 Lt
+
+268 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 13 val.
+      2 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  66408809360 Lt
+
+269 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 4 val.
+      3 VIP klientas uztruko 14 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  30887719993 Lt
+
+270 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  15444019096 Lt
+
+271 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  40154231456 Lt
+
+272 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  46331966374 Lt
+
+273 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 13 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  81852692085 Lt
+
+274 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  9266466006 Lt
+
+275 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  43243053458 Lt
+
+276 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 16 val. is kuriu virsvalandziu 15 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 30332721935 Lt
+Dienos pelnas su VIP sistema:  57142525182 Lt
+
+277 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  0 Lt
+
+278 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+      1 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  46331875460 Lt
+
+279 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  72586635192 Lt
+
+280 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  38609865912 Lt
+
+281 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 klientas uztruko 1 val.
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+      2 klientas uztruko 2 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  47876422832 Lt
+
+282 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  13899653552 Lt
+
+283 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 4 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  9266466006 Lt
+
+284 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 15 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  40154231456 Lt
+
+285 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   3 darbuotojas
+      1 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 30332721935 Lt
+Dienos pelnas su VIP sistema:  32432631021 Lt
+
+286 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  7722055005 Lt
+
+287 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  43242962544 Lt
+
+288 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 18 val.
+      2 klientas uztruko 4 val.
+      3 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  55597886896 Lt
+
+289 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val. is kuriu virsvalandziu 2 val.
+      2 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  40154367827 Lt
+
+290 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  61775894556 Lt
+
+291 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  23166165015 Lt
+
+292 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+      1 klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 10 val.
+      2 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  74130955279 Lt
+
+293 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 9 val.
+      2 klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  50964835721 Lt
+
+294 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+      1 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 28888310934 Lt
+Dienos pelnas su VIP sistema:  47876604660 Lt
+
+295 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  72586271536 Lt
+
+296 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  21621754014 Lt
+
+297 diena
+
+   1 darbuotojas
+      1 klientas uztruko 4 val.
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  21621754014 Lt
+
+298 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  77219731824 Lt
+
+299 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  18532750184 Lt
+
+300 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 16 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  66408809360 Lt
+
+301 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 8 val. is kuriu virsvalandziu 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  52509519464 Lt
+
+302 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 9 val. is kuriu virsvalandziu 7 val.
+      3 klientas uztruko 2 val.
+      4 klientas uztruko 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  69497540448 Lt
+
+303 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 12 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 30332721935 Lt
+Dienos pelnas su VIP sistema:  55598250552 Lt
+
+304 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  46332102745 Lt
+
+305 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  33976541995 Lt
+
+306 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 9 val.
+      2 klientas uztruko 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 8 val.
+      3 klientas uztruko 4 val.
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  61775667271 Lt
+
+307 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  9266466006 Lt
+
+308 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 8 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  15444110010 Lt
+
+309 diena
+
+   1 darbuotojas
+      1 klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 11 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  55598023267 Lt
+
+310 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  10810877007 Lt
+
+311 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  10810877007 Lt
+
+312 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  26254577904 Lt
+
+313 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  16988384640 Lt
+
+314 diena
+
+   1 darbuotojas
+      1 klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  15444110010 Lt
+
+315 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  40154549655 Lt
+
+316 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 2 val.
+      2 klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 5 val. is kuriu virsvalandziu 4 val.
+      3 klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  33976769280 Lt
+
+317 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  80308462912 Lt
+
+318 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  64864625644 Lt
+
+319 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  69497540448 Lt
+
+320 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  32432358279 Lt
+
+321 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val. is kuriu virsvalandziu 3 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  60231347184 Lt
+
+322 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  58686936183 Lt
+
+323 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 7 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  23165846816 Lt
+
+324 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  32432449193 Lt
+
+325 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 10 val.
+      2 klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  55598068724 Lt
+
+326 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  37065500368 Lt
+
+327 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 13 val. is kuriu virsvalandziu 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 1 val.
+      3 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  41698733371 Lt
+
+328 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  13899653552 Lt
+
+329 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  27799216190 Lt
+
+330 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  40154231456 Lt
+
+331 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 4 val.
+      3 VIP klientas uztruko 16 val. is kuriu virsvalandziu 14 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 19 val.
+      2 klientas uztruko 4 val.
+      3 klientas uztruko 1 val.
+      4 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  117373235968 Lt
+
+332 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  44787419002 Lt
+
+333 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  33976769280 Lt
+
+334 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 30332721935 Lt
+Dienos pelnas su VIP sistema:  58687208925 Lt
+
+335 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+      2 klientas uztruko 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  12355288008 Lt
+
+336 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  49420424720 Lt
+
+337 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 10 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  26254714275 Lt
+
+338 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 12 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  50964790264 Lt
+
+339 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 9 val.
+      2 klientas uztruko 1 val.
+      3 klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 10 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  64864398359 Lt
+
+340 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 4 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+      1 klientas uztruko 6 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  24710485102 Lt
+
+341 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  35521180281 Lt
+
+342 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  29343490820 Lt
+
+343 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  26254577904 Lt
+
+344 diena
+
+   1 darbuotojas
+      1 klientas uztruko 4 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  37065318540 Lt
+
+345 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  29343627191 Lt
+
+346 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  47876059176 Lt
+
+347 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 5 val.
+      2 klientas uztruko 4 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 15 val.
+      2 klientas uztruko 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  55597886896 Lt
+
+348 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  75675002624 Lt
+
+349 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  10810877007 Lt
+
+350 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 klientas uztruko 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 10 val. is kuriu virsvalandziu 9 val.
+      3 klientas uztruko 2 val.
+      4 klientas uztruko 2 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 28888310934 Lt
+Dienos pelnas su VIP sistema:  46331920917 Lt
+
+351 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  30887947278 Lt
+
+352 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 15 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  61775712728 Lt
+
+353 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 11 val.
+      2 klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 15 val.
+      3 klientas uztruko 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  81852464800 Lt
+
+354 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+      1 klientas uztruko 8 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  43243144372 Lt
+
+355 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 klientas uztruko 2 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  41698687914 Lt
+
+356 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  0 Lt
+
+357 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  67953174904 Lt
+
+358 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 13 val.
+      2 klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  80308099256 Lt
+
+359 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 klientas uztruko 1 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  13899699009 Lt
+
+360 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 6 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  13899653552 Lt
+
+361 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 10 val. is kuriu virsvalandziu 7 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  47876059176 Lt
+
+362 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  3088822002 Lt
+
+363 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  26254805189 Lt
+
+364 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  37065500368 Lt
+
+365 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  35521362109 Lt
+
+366 diena
+
+   1 darbuotojas
+      1 klientas uztruko 1 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  10810877007 Lt
+
+367 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  18532932012 Lt
+
+368 diena
+
+   1 darbuotojas
+      1 klientas uztruko 2 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  3088822002 Lt
+
+369 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 3 val.
+      3 VIP klientas uztruko 13 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 12 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  71041905992 Lt
+
+370 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  10810877007 Lt
+
+371 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 12999789923 Lt
+Dienos pelnas su VIP sistema:  35521180281 Lt
+
+372 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  21621663100 Lt
+
+373 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  61775485443 Lt
+
+374 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 12 val.
+      2 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  35520907539 Lt
+
+375 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 3 val.
+      2 klientas uztruko 2 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  7722055005 Lt
+
+376 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 1 val.
+      3 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  37065636739 Lt
+
+377 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  7722055005 Lt
+
+378 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  47876195547 Lt
+
+379 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+      1 klientas uztruko 2 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  49420788376 Lt
+
+380 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 24555077931 Lt
+Dienos pelnas su VIP sistema:  55598296009 Lt
+
+381 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 6 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 34665954938 Lt
+Dienos pelnas su VIP sistema:  37065864024 Lt
+
+382 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  41698597000 Lt
+
+383 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  58686981640 Lt
+
+384 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 9 val.
+      2 klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  57142252440 Lt
+
+385 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 13 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 24555077931 Lt
+Dienos pelnas su VIP sistema:  54053794094 Lt
+
+386 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 8 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 27443899933 Lt
+Dienos pelnas su VIP sistema:  44787555373 Lt
+
+387 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  18532841098 Lt
+
+388 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  23166165015 Lt
+
+389 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  47876195547 Lt
+
+390 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 12 val.
+      2 klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 klientas uztruko 1 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 28888310934 Lt
+Dienos pelnas su VIP sistema:  60231483555 Lt
+
+391 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 13 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  32432040080 Lt
+
+392 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 12 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  40154140542 Lt
+
+393 diena
+
+   1 darbuotojas
+      1 klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  23166119558 Lt
+
+394 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  41698597000 Lt
+
+395 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 6 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  9266466006 Lt
+
+396 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 9 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  58687118011 Lt
+
+397 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 9 val. is kuriu virsvalandziu 7 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 1 val.
+      3 VIP klientas uztruko 15 val. is kuriu virsvalandziu 13 val.
+
+Dienos pelnas be VIP sistemos: 25999488932 Lt
+Dienos pelnas su VIP sistema:  64864352902 Lt
+
+398 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  29343490820 Lt
+
+399 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  54053521352 Lt
+
+400 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  33976769280 Lt
+
+401 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  23166028644 Lt
+
+402 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 9 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  43242962544 Lt
+
+403 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  35520952996 Lt
+
+404 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 12 val.
+      2 klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  47876104633 Lt
+
+405 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 14 val.
+      3 klientas uztruko 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  58686936183 Lt
+
+406 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 6 val.
+   3 darbuotojas
+      1 klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 14 val.
+      2 klientas uztruko 4 val.
+      3 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  63320123729 Lt
+
+407 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 7 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  61775712728 Lt
+
+408 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 8 val.
+      2 klientas uztruko 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 2 val.
+      3 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  41698687914 Lt
+
+409 diena
+
+   1 darbuotojas
+      1 klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 4 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  32432267365 Lt
+
+410 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 1 val.
+      3 VIP klientas uztruko 20 val. is kuriu virsvalandziu 17 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  66408809360 Lt
+
+411 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val. is kuriu virsvalandziu 5 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  30887992735 Lt
+
+412 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 5 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  50965017549 Lt
+
+413 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 3 val.
+      2 klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val. is kuriu virsvalandziu 3 val.
+      2 klientas uztruko 5 val.
+      3 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  55598250552 Lt
+
+414 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  78764051911 Lt
+
+415 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  20077343013 Lt
+
+416 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 1 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 12 val.
+      2 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  58686981640 Lt
+
+417 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  20077343013 Lt
+
+418 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  40154185999 Lt
+
+419 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 13 val.
+      2 klientas uztruko 2 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  44787328088 Lt
+
+420 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  13899653552 Lt
+
+421 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  9266466006 Lt
+
+422 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  29343581734 Lt
+
+423 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  55598250552 Lt
+
+424 diena
+
+   1 darbuotojas
+      1 klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  4633233003 Lt
+
+425 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 19 val.
+      2 klientas uztruko 7 val.
+   3 darbuotojas
+      1 klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  88030154261 Lt
+
+426 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  0 Lt
+
+427 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 12 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  47876059176 Lt
+
+428 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  21621481272 Lt
+
+429 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+      1 klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  41698733371 Lt
+
+430 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  12355288008 Lt
+
+431 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   3 darbuotojas
+      1 klientas uztruko 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  49420606548 Lt
+
+432 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val.
+      2 VIP klientas uztruko 6 val. is kuriu virsvalandziu 4 val.
+      3 klientas uztruko 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  41698642457 Lt
+
+433 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  44787646287 Lt
+
+434 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  27799307104 Lt
+
+435 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: -1444501915 Lt
+Dienos pelnas su VIP sistema:  1544411001 Lt
+
+436 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  24710576016 Lt
+
+437 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  37065500368 Lt
+
+438 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  57142616096 Lt
+
+439 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 3 val.
+      3 klientas uztruko 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val. is kuriu virsvalandziu 1 val.
+      2 klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 33221543937 Lt
+Dienos pelnas su VIP sistema:  38610229568 Lt
+
+440 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val. is kuriu virsvalandziu 3 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 16 val.
+      2 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  71041905992 Lt
+
+441 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  50965063006 Lt
+
+442 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  12355288008 Lt
+
+443 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 klientas uztruko 2 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  24710576016 Lt
+
+444 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 11 val.
+      2 klientas uztruko 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  43242962544 Lt
+
+445 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 18 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  50964744807 Lt
+
+446 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  52509428550 Lt
+
+447 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 5 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  29343581734 Lt
+
+448 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  57142616096 Lt
+
+449 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   2 darbuotojas
+      1 klientas uztruko 5 val.
+   3 darbuotojas
+      1 klientas uztruko 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  27799216190 Lt
+
+450 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 9 val. is kuriu virsvalandziu 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  40154231456 Lt
+
+451 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 3 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 1 val.
+      3 VIP klientas uztruko 10 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 17333022926 Lt
+Dienos pelnas su VIP sistema:  61775712728 Lt
+
+452 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+      2 klientas uztruko 1 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  15444110010 Lt
+
+453 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  16988384640 Lt
+
+454 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 12 val.
+      2 klientas uztruko 3 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 1 val.
+      3 VIP klientas uztruko 7 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  71041905992 Lt
+
+455 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 12 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  108107042704 Lt
+
+456 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  4633233003 Lt
+
+457 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 16 val. is kuriu virsvalandziu 13 val.
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 27443899933 Lt
+Dienos pelnas su VIP sistema:  54053794094 Lt
+
+458 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   2 darbuotojas
+      1 klientas uztruko 2 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  15444110010 Lt
+
+459 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+      1 klientas uztruko 6 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  38609774998 Lt
+
+460 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  12355288008 Lt
+
+461 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 9 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  18532750184 Lt
+
+462 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 6 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  35521134824 Lt
+
+463 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  27798943448 Lt
+
+464 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 klientas uztruko 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 17 val. is kuriu virsvalandziu 10 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 2888912916 Lt
+Dienos pelnas su VIP sistema:  29343354449 Lt
+
+465 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 14 val. is kuriu virsvalandziu 6 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 15 val.
+      2 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  83396830344 Lt
+
+466 diena
+
+   1 darbuotojas
+      1 klientas uztruko 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+      1 klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  46331920917 Lt
+
+467 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+      1 klientas uztruko 3 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 4 val. is kuriu virsvalandziu 3 val.
+      2 klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 24555077931 Lt
+Dienos pelnas su VIP sistema:  47876513746 Lt
+
+468 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 1 val.
+      3 klientas uztruko 6 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val. is kuriu virsvalandziu 5 val.
+      2 klientas uztruko 5 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 5 val.
+      2 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 27443899933 Lt
+Dienos pelnas su VIP sistema:  41698869742 Lt
+
+469 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 3 val. is kuriu virsvalandziu 2 val.
+      2 klientas uztruko 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  29343718105 Lt
+
+470 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  30887674536 Lt
+
+471 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 4 val.
+      3 VIP klientas uztruko 1 val.
+      4 klientas uztruko 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 1 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  21621754014 Lt
+
+472 diena
+
+   1 darbuotojas
+      1 klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 15888611925 Lt
+Dienos pelnas su VIP sistema:  40154367827 Lt
+
+473 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 5 val. is kuriu virsvalandziu 2 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  57142707010 Lt
+
+474 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 17 val. is kuriu virsvalandziu 9 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 VIP klientas uztruko 14 val. is kuriu virsvalandziu 7 val.
+   3 darbuotojas
+      1 klientas uztruko 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  58686890726 Lt
+
+475 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 VIP klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+   4 darbuotojas
+      1 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  24710576016 Lt
+
+476 diena
+
+   1 darbuotojas
+      1 klientas uztruko 6 val.
+   2 darbuotojas
+      1 klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  46331966374 Lt
+
+477 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 18 val. is kuriu virsvalandziu 17 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  38609502256 Lt
+
+478 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 klientas uztruko 1 val.
+   3 darbuotojas
+      1 klientas uztruko 1 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 8 val.
+
+Dienos pelnas be VIP sistemos: 23110666930 Lt
+Dienos pelnas su VIP sistema:  24710576016 Lt
+
+479 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   2 darbuotojas
+      1 klientas uztruko 1 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+      2 VIP klientas uztruko 19 val. is kuriu virsvalandziu 16 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  55597932353 Lt
+
+480 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+
+Dienos pelnas be VIP sistemos: 4333323917 Lt
+Dienos pelnas su VIP sistema:  27799079819 Lt
+
+481 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 klientas uztruko 2 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 5 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  24710530559 Lt
+
+482 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 10 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 5777734918 Lt
+Dienos pelnas su VIP sistema:  47876241004 Lt
+
+483 diena
+
+   1 darbuotojas
+      1 klientas uztruko 3 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 5 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 7 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  46331830003 Lt
+
+484 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 11555378922 Lt
+Dienos pelnas su VIP sistema:  29343672648 Lt
+
+485 diena
+
+   1 darbuotojas
+      1 klientas uztruko 7 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 6 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  23166165015 Lt
+
+486 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 16 val. is kuriu virsvalandziu 8 val.
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  64864398359 Lt
+
+487 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 2 val.
+      2 VIP klientas uztruko 9 val. is kuriu virsvalandziu 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 7 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 1 val.
+      3 klientas uztruko 4 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  50965153920 Lt
+
+488 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 7 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  40154185999 Lt
+
+489 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 4 val. is kuriu virsvalandziu 3 val.
+      2 klientas uztruko 7 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 klientas uztruko 3 val.
+   3 darbuotojas
+   4 darbuotojas
+      1 VIP klientas uztruko 9 val. is kuriu virsvalandziu 1 val.
+
+Dienos pelnas be VIP sistemos: 18777433927 Lt
+Dienos pelnas su VIP sistema:  40154504198 Lt
+
+490 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 15 val. is kuriu virsvalandziu 13 val.
+      2 klientas uztruko 2 val.
+      3 klientas uztruko 4 val.
+   2 darbuotojas
+      1 VIP klientas uztruko 8 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 1 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 3 val.
+
+Dienos pelnas be VIP sistemos: 28888310934 Lt
+Dienos pelnas su VIP sistema:  71042178734 Lt
+
+491 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+      1 klientas uztruko 7 val.
+
+Dienos pelnas be VIP sistemos: 21666255929 Lt
+Dienos pelnas su VIP sistema:  23166165015 Lt
+
+492 diena
+
+   1 darbuotojas
+      1 klientas uztruko 8 val.
+   2 darbuotojas
+      1 klientas uztruko 5 val.
+   3 darbuotojas
+      1 klientas uztruko 8 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 11 val. is kuriu virsvalandziu 9 val.
+      2 klientas uztruko 6 val.
+
+Dienos pelnas be VIP sistemos: 38999187941 Lt
+Dienos pelnas su VIP sistema:  58687208925 Lt
+
+493 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 6 val.
+      2 VIP klientas uztruko 8 val. is kuriu virsvalandziu 6 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 klientas uztruko 2 val.
+   4 darbuotojas
+      1 klientas uztruko 5 val.
+      2 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 20221844928 Lt
+Dienos pelnas su VIP sistema:  33976769280 Lt
+
+494 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 7 val. is kuriu virsvalandziu 4 val.
+      2 klientas uztruko 4 val.
+      3 klientas uztruko 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 8 val. is kuriu virsvalandziu 5 val.
+      2 klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 19 val. is kuriu virsvalandziu 11 val.
+
+Dienos pelnas be VIP sistemos: 14444200924 Lt
+Dienos pelnas su VIP sistema:  67953174904 Lt
+
+495 diena
+
+   1 darbuotojas
+      1 klientas uztruko 1 val.
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 5 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+
+Dienos pelnas be VIP sistemos: 8666556920 Lt
+Dienos pelnas su VIP sistema:  27799216190 Lt
+
+496 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 13 val. is kuriu virsvalandziu 12 val.
+      2 klientas uztruko 1 val.
+      3 klientas uztruko 6 val.
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 10110967921 Lt
+Dienos pelnas su VIP sistema:  30887674536 Lt
+
+497 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 12 val. is kuriu virsvalandziu 4 val.
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  18532750184 Lt
+
+498 diena
+
+   1 darbuotojas
+   2 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 18 val.
+      2 klientas uztruko 6 val.
+   3 darbuotojas
+      1 VIP klientas uztruko 7 val.
+      2 VIP klientas uztruko 10 val. is kuriu virsvalandziu 9 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 3 val.
+      2 klientas uztruko 1 val.
+
+Dienos pelnas be VIP sistemos: 24555077931 Lt
+Dienos pelnas su VIP sistema:  72586089708 Lt
+
+499 diena
+
+   1 darbuotojas
+   2 darbuotojas
+   3 darbuotojas
+      1 VIP klientas uztruko 10 val. is kuriu virsvalandziu 2 val.
+   4 darbuotojas
+      1 VIP klientas uztruko 20 val. is kuriu virsvalandziu 12 val.
+
+Dienos pelnas be VIP sistemos: 0 Lt
+Dienos pelnas su VIP sistema:  46331693632 Lt
+
+500 diena
+
+   1 darbuotojas
+      1 VIP klientas uztruko 18 val. is kuriu virsvalandziu 15 val.
+      2 klientas uztruko 5 val.
+   2 darbuotojas
+   3 darbuotojas
+   4 darbuotojas
+
+Dienos pelnas be VIP sistemos: 7222145919 Lt
+Dienos pelnas su VIP sistema:  35520771168 Lt
+
+TRECIA DALIS. Rezultatai
+  1. Is viso autoservisas dirbo 500 dienu po 8 valandas
+  2. Bendras pelnas be VIP sistemos: 14776446546818 Lt
+  3. Bendras pelnas su VIP sistema:  53224459069020 Lt
+  4. Didesnis pelnas gautas su VIP sistema

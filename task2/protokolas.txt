@@ -1,0 +1,1605 @@
+    1. C1.S1.kartojasi kvadrate.netinka
+    2. C1.S2.kartojasi eiluteje.netinka
+    3. C1.S3.kartojasi eiluteje.netinka
+    4. C1.S4.tinka
+    5. C2.S1.kartojasi kvadrate.netinka
+    6. C2.S2.kartojasi eiluteje.netinka
+    7. C2.S3.kartojasi eiluteje.netinka
+    8. C2.S4.kartojasi eiluteje.netinka
+    9. C2.S5.tinka
+   10. C4.S1.kartojasi stulpelyje.netinka
+   11. C4.S2.kartojasi eiluteje.netinka
+   12. C4.S3.kartojasi eiluteje.netinka
+   13. C4.S4.kartojasi eiluteje.netinka
+   14. C4.S5.kartojasi eiluteje.netinka
+   15. C4.S6.kartojasi eiluteje.netinka
+   16. C4.S7.kartojasi stulpelyje.netinka
+   17. C4.S8.kartojasi stulpelyje.netinka
+   18. C4.S9.tinka
+   19. C6.S1.tinka
+   20. C8.S1.kartojasi eiluteje.netinka
+   21. C8.S2.kartojasi eiluteje.netinka
+   22. C8.S3.kartojasi eiluteje.netinka
+   23. C8.S4.kartojasi eiluteje.netinka
+   24. C8.S5.kartojasi eiluteje.netinka
+   25. C8.S6.kartojasi eiluteje.netinka
+   26. C8.S7.tinka
+   27. C9.S1.kartojasi eiluteje.netinka
+   28. C9.S2.kartojasi eiluteje.netinka
+   29. C9.S3.kartojasi eiluteje.netinka
+   30. C9.S4.kartojasi eiluteje.netinka
+   31. C9.S5.kartojasi eiluteje.netinka
+   32. C9.S6.kartojasi eiluteje.netinka
+   33. C9.S7.kartojasi eiluteje.netinka
+   34. C9.S8.kartojasi stulpelyje.netinka
+   35. C9.S9.kartojasi eiluteje.netinka
+   36. C8.S8.tinka
+   37. C9.S1.kartojasi eiluteje.netinka
+   38. C9.S2.kartojasi eiluteje.netinka
+   39. C9.S3.kartojasi eiluteje.netinka
+   40. C9.S4.kartojasi eiluteje.netinka
+   41. C9.S5.kartojasi eiluteje.netinka
+   42. C9.S6.kartojasi eiluteje.netinka
+   43. C9.S7.tinka
+   44. -C2.S1.kartojasi eiluteje.netinka
+   45. -C2.S2.tinka
+   46. -C3.S1.kartojasi eiluteje.netinka
+   47. -C3.S2.kartojasi eiluteje.netinka
+   48. -C3.S3.kartojasi eiluteje.netinka
+   49. -C3.S4.kartojasi kvadrate.netinka
+   50. -C3.S5.kartojasi eiluteje.netinka
+   51. -C3.S6.kartojasi stulpelyje.netinka
+   52. -C3.S7.tinka
+   53. -C5.S1.kartojasi eiluteje.netinka
+   54. -C5.S2.kartojasi eiluteje.netinka
+   55. -C5.S3.kartojasi eiluteje.netinka
+   56. -C5.S4.tinka
+   57. -C7.S1.kartojasi eiluteje.netinka
+   58. -C7.S2.kartojasi eiluteje.netinka
+   59. -C7.S3.kartojasi eiluteje.netinka
+   60. -C7.S4.kartojasi eiluteje.netinka
+   61. -C7.S5.kartojasi eiluteje.netinka
+   62. -C7.S6.kartojasi stulpelyje.netinka
+   63. -C7.S7.kartojasi eiluteje.netinka
+   64. -C7.S8.kartojasi kvadrate.netinka
+   65. -C7.S9.kartojasi eiluteje.netinka
+   66. -C5.S5.kartojasi eiluteje.netinka
+   67. -C5.S6.kartojasi kvadrate.netinka
+   68. -C5.S7.kartojasi eiluteje.netinka
+   69. -C5.S8.kartojasi kvadrate.netinka
+   70. -C5.S9.kartojasi eiluteje.netinka
+   71. -C3.S8.kartojasi stulpelyje.netinka
+   72. -C3.S9.kartojasi eiluteje.netinka
+   73. -C2.S3.kartojasi eiluteje.netinka
+   74. -C2.S4.kartojasi kvadrate.netinka
+   75. -C2.S5.kartojasi eiluteje.netinka
+   76. -C2.S6.tinka
+   77. -C3.S1.kartojasi eiluteje.netinka
+   78. -C3.S2.kartojasi stulpelyje.netinka
+   79. -C3.S3.kartojasi eiluteje.netinka
+   80. -C3.S4.kartojasi kvadrate.netinka
+   81. -C3.S5.kartojasi eiluteje.netinka
+   82. -C3.S6.kartojasi eiluteje.netinka
+   83. -C3.S7.tinka
+   84. -C5.S1.kartojasi eiluteje.netinka
+   85. -C5.S2.kartojasi stulpelyje.netinka
+   86. -C5.S3.kartojasi eiluteje.netinka
+   87. -C5.S4.tinka
+   88. -C7.S1.kartojasi eiluteje.netinka
+   89. -C7.S2.kartojasi stulpelyje.netinka
+   90. -C7.S3.kartojasi eiluteje.netinka
+   91. -C7.S4.kartojasi eiluteje.netinka
+   92. -C7.S5.kartojasi eiluteje.netinka
+   93. -C7.S6.kartojasi eiluteje.netinka
+   94. -C7.S7.kartojasi eiluteje.netinka
+   95. -C7.S8.kartojasi kvadrate.netinka
+   96. -C7.S9.kartojasi eiluteje.netinka
+   97. -C5.S5.kartojasi eiluteje.netinka
+   98. -C5.S6.kartojasi eiluteje.netinka
+   99. -C5.S7.kartojasi eiluteje.netinka
+  100. -C5.S8.kartojasi kvadrate.netinka
+  101. -C5.S9.kartojasi eiluteje.netinka
+  102. -C3.S8.kartojasi stulpelyje.netinka
+  103. -C3.S9.kartojasi eiluteje.netinka
+  104. -C2.S7.tinka
+  105. -C3.S1.kartojasi eiluteje.netinka
+  106. -C3.S2.kartojasi stulpelyje.netinka
+  107. -C3.S3.kartojasi eiluteje.netinka
+  108. -C3.S4.kartojasi kvadrate.netinka
+  109. -C3.S5.kartojasi eiluteje.netinka
+  110. -C3.S6.kartojasi stulpelyje.netinka
+  111. -C3.S7.kartojasi eiluteje.netinka
+  112. -C3.S8.kartojasi stulpelyje.netinka
+  113. -C3.S9.kartojasi eiluteje.netinka
+  114. -C2.S8.tinka
+  115. -C3.S1.kartojasi eiluteje.netinka
+  116. -C3.S2.kartojasi stulpelyje.netinka
+  117. -C3.S3.kartojasi eiluteje.netinka
+  118. -C3.S4.kartojasi kvadrate.netinka
+  119. -C3.S5.kartojasi eiluteje.netinka
+  120. -C3.S6.kartojasi stulpelyje.netinka
+  121. -C3.S7.tinka
+  122. -C5.S1.kartojasi eiluteje.netinka
+  123. -C5.S2.kartojasi stulpelyje.netinka
+  124. -C5.S3.kartojasi eiluteje.netinka
+  125. -C5.S4.tinka
+  126. -C7.S1.kartojasi eiluteje.netinka
+  127. -C7.S2.kartojasi stulpelyje.netinka
+  128. -C7.S3.kartojasi eiluteje.netinka
+  129. -C7.S4.kartojasi eiluteje.netinka
+  130. -C7.S5.kartojasi eiluteje.netinka
+  131. -C7.S6.kartojasi stulpelyje.netinka
+  132. -C7.S7.kartojasi eiluteje.netinka
+  133. -C7.S8.kartojasi eiluteje.netinka
+  134. -C7.S9.kartojasi eiluteje.netinka
+  135. -C5.S5.kartojasi eiluteje.netinka
+  136. -C5.S6.kartojasi kvadrate.netinka
+  137. -C5.S7.kartojasi eiluteje.netinka
+  138. -C5.S8.kartojasi eiluteje.netinka
+  139. -C5.S9.kartojasi eiluteje.netinka
+  140. -C3.S8.kartojasi eiluteje.netinka
+  141. -C3.S9.kartojasi eiluteje.netinka
+  142. -C2.S9.kartojasi eiluteje.netinka
+  143. C9.S8.kartojasi eiluteje.netinka
+  144. C9.S9.kartojasi eiluteje.netinka
+  145. C8.S9.kartojasi eiluteje.netinka
+  146. C6.S2.kartojasi eiluteje.netinka
+  147. C6.S3.kartojasi eiluteje.netinka
+  148. C6.S4.kartojasi eiluteje.netinka
+  149. C6.S5.kartojasi eiluteje.netinka
+  150. C6.S6.kartojasi eiluteje.netinka
+  151. C6.S7.tinka
+  152. C8.S1.kartojasi kvadrate.netinka
+  153. C8.S2.kartojasi eiluteje.netinka
+  154. C8.S3.kartojasi eiluteje.netinka
+  155. C8.S4.kartojasi eiluteje.netinka
+  156. C8.S5.kartojasi eiluteje.netinka
+  157. C8.S6.kartojasi eiluteje.netinka
+  158. C8.S7.kartojasi eiluteje.netinka
+  159. C8.S8.tinka
+  160. C9.S1.kartojasi stulpelyje.netinka
+  161. C9.S2.kartojasi eiluteje.netinka
+  162. C9.S3.kartojasi eiluteje.netinka
+  163. C9.S4.kartojasi eiluteje.netinka
+  164. C9.S5.kartojasi eiluteje.netinka
+  165. C9.S6.kartojasi eiluteje.netinka
+  166. C9.S7.kartojasi eiluteje.netinka
+  167. C9.S8.kartojasi eiluteje.netinka
+  168. C9.S9.kartojasi eiluteje.netinka
+  169. C8.S9.kartojasi eiluteje.netinka
+  170. C6.S8.kartojasi stulpelyje.netinka
+  171. C6.S9.kartojasi eiluteje.netinka
+  172. C2.S6.kartojasi eiluteje.netinka
+  173. C2.S7.tinka
+  174. C4.S1.kartojasi stulpelyje.netinka
+  175. C4.S2.kartojasi eiluteje.netinka
+  176. C4.S3.kartojasi eiluteje.netinka
+  177. C4.S4.kartojasi eiluteje.netinka
+  178. C4.S5.kartojasi kvadrate.netinka
+  179. C4.S6.kartojasi eiluteje.netinka
+  180. C4.S7.kartojasi eiluteje.netinka
+  181. C4.S8.kartojasi stulpelyje.netinka
+  182. C4.S9.tinka
+  183. C6.S1.tinka
+  184. C8.S1.kartojasi eiluteje.netinka
+  185. C8.S2.kartojasi eiluteje.netinka
+  186. C8.S3.kartojasi eiluteje.netinka
+  187. C8.S4.kartojasi eiluteje.netinka
+  188. C8.S5.tinka
+  189. C9.S1.kartojasi eiluteje.netinka
+  190. C9.S2.kartojasi eiluteje.netinka
+  191. C9.S3.kartojasi eiluteje.netinka
+  192. C9.S4.kartojasi eiluteje.netinka
+  193. C9.S5.kartojasi eiluteje.netinka
+  194. C9.S6.kartojasi eiluteje.netinka
+  195. C9.S7.kartojasi eiluteje.netinka
+  196. C9.S8.kartojasi stulpelyje.netinka
+  197. C9.S9.kartojasi eiluteje.netinka
+  198. C8.S6.kartojasi eiluteje.netinka
+  199. C8.S7.kartojasi eiluteje.netinka
+  200. C8.S8.tinka
+  201. C9.S1.kartojasi eiluteje.netinka
+  202. C9.S2.kartojasi eiluteje.netinka
+  203. C9.S3.kartojasi eiluteje.netinka
+  204. C9.S4.kartojasi eiluteje.netinka
+  205. C9.S5.tinka
+  206. -C2.S1.kartojasi eiluteje.netinka
+  207. -C2.S2.tinka
+  208. -C3.S1.kartojasi eiluteje.netinka
+  209. -C3.S2.kartojasi eiluteje.netinka
+  210. -C3.S3.kartojasi eiluteje.netinka
+  211. -C3.S4.kartojasi kvadrate.netinka
+  212. -C3.S5.kartojasi eiluteje.netinka
+  213. -C3.S6.kartojasi stulpelyje.netinka
+  214. -C3.S7.kartojasi kvadrate.netinka
+  215. -C3.S8.kartojasi stulpelyje.netinka
+  216. -C3.S9.kartojasi eiluteje.netinka
+  217. -C2.S3.kartojasi eiluteje.netinka
+  218. -C2.S4.kartojasi kvadrate.netinka
+  219. -C2.S5.kartojasi eiluteje.netinka
+  220. -C2.S6.tinka
+  221. -C3.S1.kartojasi eiluteje.netinka
+  222. -C3.S2.kartojasi stulpelyje.netinka
+  223. -C3.S3.kartojasi eiluteje.netinka
+  224. -C3.S4.kartojasi kvadrate.netinka
+  225. -C3.S5.kartojasi eiluteje.netinka
+  226. -C3.S6.kartojasi eiluteje.netinka
+  227. -C3.S7.kartojasi kvadrate.netinka
+  228. -C3.S8.kartojasi stulpelyje.netinka
+  229. -C3.S9.kartojasi eiluteje.netinka
+  230. -C2.S7.kartojasi stulpelyje.netinka
+  231. -C2.S8.tinka
+  232. -C3.S1.kartojasi eiluteje.netinka
+  233. -C3.S2.kartojasi stulpelyje.netinka
+  234. -C3.S3.kartojasi eiluteje.netinka
+  235. -C3.S4.kartojasi kvadrate.netinka
+  236. -C3.S5.kartojasi eiluteje.netinka
+  237. -C3.S6.kartojasi stulpelyje.netinka
+  238. -C3.S7.kartojasi kvadrate.netinka
+  239. -C3.S8.kartojasi eiluteje.netinka
+  240. -C3.S9.kartojasi eiluteje.netinka
+  241. -C2.S9.kartojasi eiluteje.netinka
+  242. C9.S6.kartojasi eiluteje.netinka
+  243. C9.S7.kartojasi eiluteje.netinka
+  244. C9.S8.kartojasi eiluteje.netinka
+  245. C9.S9.kartojasi eiluteje.netinka
+  246. C8.S9.kartojasi eiluteje.netinka
+  247. C6.S2.kartojasi eiluteje.netinka
+  248. C6.S3.kartojasi eiluteje.netinka
+  249. C6.S4.kartojasi eiluteje.netinka
+  250. C6.S5.kartojasi stulpelyje.netinka
+  251. C6.S6.kartojasi eiluteje.netinka
+  252. C6.S7.kartojasi eiluteje.netinka
+  253. C6.S8.kartojasi stulpelyje.netinka
+  254. C6.S9.kartojasi eiluteje.netinka
+  255. C2.S8.tinka
+  256. C4.S1.kartojasi stulpelyje.netinka
+  257. C4.S2.kartojasi eiluteje.netinka
+  258. C4.S3.kartojasi eiluteje.netinka
+  259. C4.S4.kartojasi eiluteje.netinka
+  260. C4.S5.kartojasi kvadrate.netinka
+  261. C4.S6.kartojasi eiluteje.netinka
+  262. C4.S7.kartojasi stulpelyje.netinka
+  263. C4.S8.kartojasi eiluteje.netinka
+  264. C4.S9.tinka
+  265. C6.S1.tinka
+  266. C8.S1.kartojasi eiluteje.netinka
+  267. C8.S2.kartojasi eiluteje.netinka
+  268. C8.S3.kartojasi eiluteje.netinka
+  269. C8.S4.kartojasi eiluteje.netinka
+  270. C8.S5.tinka
+  271. C9.S1.kartojasi eiluteje.netinka
+  272. C9.S2.kartojasi eiluteje.netinka
+  273. C9.S3.kartojasi eiluteje.netinka
+  274. C9.S4.kartojasi eiluteje.netinka
+  275. C9.S5.kartojasi eiluteje.netinka
+  276. C9.S6.kartojasi eiluteje.netinka
+  277. C9.S7.tinka
+  278. -C2.S1.kartojasi eiluteje.netinka
+  279. -C2.S2.tinka
+  280. -C3.S1.kartojasi eiluteje.netinka
+  281. -C3.S2.kartojasi eiluteje.netinka
+  282. -C3.S3.kartojasi eiluteje.netinka
+  283. -C3.S4.kartojasi kvadrate.netinka
+  284. -C3.S5.kartojasi eiluteje.netinka
+  285. -C3.S6.kartojasi stulpelyje.netinka
+  286. -C3.S7.tinka
+  287. -C5.S1.kartojasi eiluteje.netinka
+  288. -C5.S2.kartojasi eiluteje.netinka
+  289. -C5.S3.kartojasi eiluteje.netinka
+  290. -C5.S4.tinka
+  291. -C7.S1.kartojasi eiluteje.netinka
+  292. -C7.S2.kartojasi eiluteje.netinka
+  293. -C7.S3.kartojasi eiluteje.netinka
+  294. -C7.S4.kartojasi eiluteje.netinka
+  295. -C7.S5.kartojasi eiluteje.netinka
+  296. -C7.S6.kartojasi stulpelyje.netinka
+  297. -C7.S7.kartojasi eiluteje.netinka
+  298. -C7.S8.tinka
+  299. -C8.S1.kartojasi eiluteje.netinka
+  300. -C8.S2.kartojasi eiluteje.netinka
+  301. -C8.S3.kartojasi eiluteje.netinka
+  302. -C8.S4.kartojasi eiluteje.netinka
+  303. -C8.S5.kartojasi eiluteje.netinka
+  304. -C8.S6.kartojasi kvadrate.netinka
+  305. -C8.S7.kartojasi eiluteje.netinka
+  306. -C8.S8.kartojasi eiluteje.netinka
+  307. -C8.S9.kartojasi eiluteje.netinka
+  308. -C7.S9.kartojasi eiluteje.netinka
+  309. -C5.S5.kartojasi eiluteje.netinka
+  310. -C5.S6.kartojasi kvadrate.netinka
+  311. -C5.S7.kartojasi eiluteje.netinka
+  312. -C5.S8.kartojasi kvadrate.netinka
+  313. -C5.S9.kartojasi eiluteje.netinka
+  314. -C3.S8.kartojasi stulpelyje.netinka
+  315. -C3.S9.kartojasi eiluteje.netinka
+  316. -C2.S3.kartojasi eiluteje.netinka
+  317. -C2.S4.kartojasi kvadrate.netinka
+  318. -C2.S5.kartojasi eiluteje.netinka
+  319. -C2.S6.tinka
+  320. -C3.S1.kartojasi eiluteje.netinka
+  321. -C3.S2.kartojasi stulpelyje.netinka
+  322. -C3.S3.kartojasi eiluteje.netinka
+  323. -C3.S4.kartojasi kvadrate.netinka
+  324. -C3.S5.kartojasi eiluteje.netinka
+  325. -C3.S6.kartojasi eiluteje.netinka
+  326. -C3.S7.tinka
+  327. -C5.S1.kartojasi eiluteje.netinka
+  328. -C5.S2.kartojasi stulpelyje.netinka
+  329. -C5.S3.kartojasi eiluteje.netinka
+  330. -C5.S4.tinka
+  331. -C7.S1.kartojasi eiluteje.netinka
+  332. -C7.S2.kartojasi stulpelyje.netinka
+  333. -C7.S3.kartojasi eiluteje.netinka
+  334. -C7.S4.kartojasi eiluteje.netinka
+  335. -C7.S5.kartojasi eiluteje.netinka
+  336. -C7.S6.kartojasi eiluteje.netinka
+  337. -C7.S7.kartojasi eiluteje.netinka
+  338. -C7.S8.tinka
+  339. -C8.S1.kartojasi eiluteje.netinka
+  340. -C8.S2.tinka
+  341. --C1.S1.kartojasi eiluteje.netinka
+  342. --C1.S2.tinka
+  343. --C2.S1.kartojasi eiluteje.netinka
+  344. --C2.S2.kartojasi eiluteje.netinka
+  345. --C2.S3.kartojasi kvadrate.netinka
+  346. --C2.S4.kartojasi eiluteje.netinka
+  347. --C2.S5.tinka
+  348. --C5.S1.kartojasi eiluteje.netinka
+  349. --C5.S2.kartojasi eiluteje.netinka
+  350. --C5.S3.kartojasi kvadrate.netinka
+  351. --C5.S4.kartojasi eiluteje.netinka
+  352. --C5.S5.kartojasi eiluteje.netinka
+  353. --C5.S6.kartojasi eiluteje.netinka
+  354. --C5.S7.tinka
+  355. --C8.S1.kartojasi eiluteje.netinka
+  356. --C8.S2.kartojasi eiluteje.netinka
+  357. --C8.S3.tinka
+  358. --C9.S1.kartojasi eiluteje.netinka
+  359. --C9.S2.kartojasi eiluteje.netinka
+  360. --C9.S3.kartojasi eiluteje.netinka
+  361. --C9.S4.kartojasi eiluteje.netinka
+  362. --C9.S5.kartojasi eiluteje.netinka
+  363. --C9.S6.kartojasi eiluteje.netinka
+  364. --C9.S7.kartojasi eiluteje.netinka
+  365. --C9.S8.kartojasi eiluteje.netinka
+  366. --C9.S9.kartojasi stulpelyje.netinka
+  367. --C8.S4.kartojasi eiluteje.netinka
+  368. --C8.S5.kartojasi eiluteje.netinka
+  369. --C8.S6.kartojasi eiluteje.netinka
+  370. --C8.S7.kartojasi eiluteje.netinka
+  371. --C8.S8.kartojasi eiluteje.netinka
+  372. --C8.S9.tinka
+  373. --C9.S1.kartojasi eiluteje.netinka
+  374. --C9.S2.kartojasi eiluteje.netinka
+  375. --C9.S3.tinka
+  376. ---C1.S1.kartojasi eiluteje.netinka
+  377. ---C1.S2.kartojasi eiluteje.netinka
+  378. ---C1.S3.tinka
+  379. ---C2.S1.kartojasi eiluteje.netinka
+  380. ---C2.S2.kartojasi eiluteje.netinka
+  381. ---C2.S3.kartojasi eiluteje.netinka
+  382. ---C2.S4.tinka
+  383. ---C5.S1.kartojasi eiluteje.netinka
+  384. ---C5.S2.kartojasi eiluteje.netinka
+  385. ---C5.S3.kartojasi eiluteje.netinka
+  386. ---C5.S4.kartojasi eiluteje.netinka
+  387. ---C5.S5.tinka
+  388. ---C8.S1.kartojasi eiluteje.netinka
+  389. ---C8.S2.kartojasi eiluteje.netinka
+  390. ---C8.S3.kartojasi eiluteje.netinka
+  391. ---C8.S4.kartojasi eiluteje.netinka
+  392. ---C8.S5.kartojasi eiluteje.netinka
+  393. ---C8.S6.tinka
+  394. ---C9.S1.kartojasi eiluteje.netinka
+  395. ---C9.S2.kartojasi eiluteje.netinka
+  396. ---C9.S3.kartojasi eiluteje.netinka
+  397. ---C9.S4.kartojasi eiluteje.netinka
+  398. ---C9.S5.kartojasi eiluteje.netinka
+  399. ---C9.S6.kartojasi eiluteje.netinka
+  400. ---C9.S7.kartojasi stulpelyje.netinka
+  401. ---C9.S8.kartojasi eiluteje.netinka
+  402. ---C9.S9.kartojasi eiluteje.netinka
+  403. ---C8.S7.tinka
+  404. ---C9.S1.kartojasi eiluteje.netinka
+  405. ---C9.S2.kartojasi eiluteje.netinka
+  406. ---C9.S3.kartojasi eiluteje.netinka
+  407. ---C9.S4.kartojasi eiluteje.netinka
+  408. ---C9.S5.kartojasi eiluteje.netinka
+  409. ---C9.S6.tinka
+  410. ----C2.S1.tinka
+  411. ----C3.S1.kartojasi eiluteje.netinka
+  412. ----C3.S2.kartojasi stulpelyje.netinka
+  413. ----C3.S3.kartojasi stulpelyje.netinka
+  414. ----C3.S4.kartojasi kvadrate.netinka
+  415. ----C3.S5.kartojasi stulpelyje.netinka
+  416. ----C3.S6.kartojasi stulpelyje.netinka
+  417. ----C3.S7.kartojasi eiluteje.netinka
+  418. ----C3.S8.kartojasi eiluteje.netinka
+  419. ----C3.S9.tinka
+  420. ----C4.S1.kartojasi eiluteje.netinka
+  421. ----C4.S2.kartojasi stulpelyje.netinka
+  422. ----C4.S3.kartojasi stulpelyje.netinka
+  423. ----C4.S4.tinka
+  424. ----C5.S1.kartojasi eiluteje.netinka
+  425. ----C5.S2.kartojasi stulpelyje.netinka
+  426. ----C5.S3.tinka
+  427. ----C6.S1.kartojasi eiluteje.netinka
+  428. ----C6.S2.kartojasi stulpelyje.netinka
+  429. ----C6.S3.kartojasi eiluteje.netinka
+  430. ----C6.S4.kartojasi eiluteje.netinka
+  431. ----C6.S5.kartojasi stulpelyje.netinka
+  432. ----C6.S6.kartojasi stulpelyje.netinka
+  433. ----C6.S7.kartojasi eiluteje.netinka
+  434. ----C6.S8.kartojasi eiluteje.netinka
+  435. ----C6.S9.kartojasi eiluteje.netinka
+  436. ----C5.S4.kartojasi eiluteje.netinka
+  437. ----C5.S5.kartojasi stulpelyje.netinka
+  438. ----C5.S6.tinka
+  439. ----C6.S1.kartojasi eiluteje.netinka
+  440. ----C6.S2.kartojasi stulpelyje.netinka
+  441. ----C6.S3.kartojasi stulpelyje.netinka
+  442. ----C6.S4.kartojasi eiluteje.netinka
+  443. ----C6.S5.kartojasi stulpelyje.netinka
+  444. ----C6.S6.kartojasi eiluteje.netinka
+  445. ----C6.S7.kartojasi eiluteje.netinka
+  446. ----C6.S8.kartojasi eiluteje.netinka
+  447. ----C6.S9.kartojasi eiluteje.netinka
+  448. ----C5.S7.kartojasi eiluteje.netinka
+  449. ----C5.S8.kartojasi eiluteje.netinka
+  450. ----C5.S9.kartojasi eiluteje.netinka
+  451. ----C4.S5.kartojasi kvadrate.netinka
+  452. ----C4.S6.kartojasi stulpelyje.netinka
+  453. ----C4.S7.kartojasi eiluteje.netinka
+  454. ----C4.S8.kartojasi eiluteje.netinka
+  455. ----C4.S9.kartojasi eiluteje.netinka
+  456. ----C2.S2.tinka
+  457. ----C3.S1.kartojasi stulpelyje.netinka
+  458. ----C3.S2.kartojasi eiluteje.netinka
+  459. ----C3.S3.kartojasi stulpelyje.netinka
+  460. ----C3.S4.kartojasi kvadrate.netinka
+  461. ----C3.S5.kartojasi stulpelyje.netinka
+  462. ----C3.S6.kartojasi stulpelyje.netinka
+  463. ----C3.S7.kartojasi eiluteje.netinka
+  464. ----C3.S8.kartojasi eiluteje.netinka
+  465. ----C3.S9.tinka
+  466. ----C4.S1.kartojasi stulpelyje.netinka
+  467. ----C4.S2.kartojasi eiluteje.netinka
+  468. ----C4.S3.kartojasi stulpelyje.netinka
+  469. ----C4.S4.tinka
+  470. ----C5.S1.kartojasi stulpelyje.netinka
+  471. ----C5.S2.kartojasi eiluteje.netinka
+  472. ----C5.S3.tinka
+  473. ----C6.S1.kartojasi stulpelyje.netinka
+  474. ----C6.S2.kartojasi eiluteje.netinka
+  475. ----C6.S3.kartojasi eiluteje.netinka
+  476. ----C6.S4.kartojasi eiluteje.netinka
+  477. ----C6.S5.kartojasi stulpelyje.netinka
+  478. ----C6.S6.kartojasi stulpelyje.netinka
+  479. ----C6.S7.kartojasi eiluteje.netinka
+  480. ----C6.S8.kartojasi eiluteje.netinka
+  481. ----C6.S9.kartojasi eiluteje.netinka
+  482. ----C5.S4.kartojasi eiluteje.netinka
+  483. ----C5.S5.kartojasi stulpelyje.netinka
+  484. ----C5.S6.tinka
+  485. ----C6.S1.kartojasi stulpelyje.netinka
+  486. ----C6.S2.kartojasi eiluteje.netinka
+  487. ----C6.S3.kartojasi stulpelyje.netinka
+  488. ----C6.S4.kartojasi eiluteje.netinka
+  489. ----C6.S5.kartojasi stulpelyje.netinka
+  490. ----C6.S6.kartojasi eiluteje.netinka
+  491. ----C6.S7.kartojasi eiluteje.netinka
+  492. ----C6.S8.kartojasi eiluteje.netinka
+  493. ----C6.S9.kartojasi eiluteje.netinka
+  494. ----C5.S7.kartojasi eiluteje.netinka
+  495. ----C5.S8.kartojasi eiluteje.netinka
+  496. ----C5.S9.kartojasi eiluteje.netinka
+  497. ----C4.S5.kartojasi kvadrate.netinka
+  498. ----C4.S6.kartojasi stulpelyje.netinka
+  499. ----C4.S7.kartojasi eiluteje.netinka
+  500. ----C4.S8.kartojasi eiluteje.netinka
+  501. ----C4.S9.kartojasi eiluteje.netinka
+  502. ----C2.S3.kartojasi kvadrate.netinka
+  503. ----C2.S4.kartojasi stulpelyje.netinka
+  504. ----C2.S5.kartojasi stulpelyje.netinka
+  505. ----C2.S6.kartojasi stulpelyje.netinka
+  506. ----C2.S7.kartojasi eiluteje.netinka
+  507. ----C2.S8.kartojasi eiluteje.netinka
+  508. ----C2.S9.tinka
+  509. ----C3.S1.kartojasi stulpelyje.netinka
+  510. ----C3.S2.kartojasi stulpelyje.netinka
+  511. ----C3.S3.kartojasi stulpelyje.netinka
+  512. ----C3.S4.kartojasi kvadrate.netinka
+  513. ----C3.S5.kartojasi stulpelyje.netinka
+  514. ----C3.S6.kartojasi stulpelyje.netinka
+  515. ----C3.S7.kartojasi eiluteje.netinka
+  516. ----C3.S8.kartojasi eiluteje.netinka
+  517. ----C3.S9.kartojasi eiluteje.netinka
+  518. ---C9.S7.kartojasi eiluteje.netinka
+  519. ---C9.S8.kartojasi eiluteje.netinka
+  520. ---C9.S9.kartojasi eiluteje.netinka
+  521. ---C8.S8.kartojasi eiluteje.netinka
+  522. ---C8.S9.kartojasi eiluteje.netinka
+  523. ---C5.S6.tinka
+  524. ---C8.S1.kartojasi eiluteje.netinka
+  525. ---C8.S2.kartojasi eiluteje.netinka
+  526. ---C8.S3.kartojasi eiluteje.netinka
+  527. ---C8.S4.kartojasi eiluteje.netinka
+  528. ---C8.S5.kartojasi stulpelyje.netinka
+  529. ---C8.S6.kartojasi eiluteje.netinka
+  530. ---C8.S7.tinka
+  531. ---C9.S1.kartojasi eiluteje.netinka
+  532. ---C9.S2.kartojasi eiluteje.netinka
+  533. ---C9.S3.kartojasi eiluteje.netinka
+  534. ---C9.S4.kartojasi eiluteje.netinka
+  535. ---C9.S5.tinka
+  536. ----C2.S1.tinka
+  537. ----C3.S1.kartojasi eiluteje.netinka
+  538. ----C3.S2.kartojasi stulpelyje.netinka
+  539. ----C3.S3.kartojasi stulpelyje.netinka
+  540. ----C3.S4.kartojasi kvadrate.netinka
+  541. ----C3.S5.kartojasi stulpelyje.netinka
+  542. ----C3.S6.kartojasi stulpelyje.netinka
+  543. ----C3.S7.kartojasi eiluteje.netinka
+  544. ----C3.S8.kartojasi eiluteje.netinka
+  545. ----C3.S9.tinka
+  546. ----C4.S1.kartojasi eiluteje.netinka
+  547. ----C4.S2.kartojasi stulpelyje.netinka
+  548. ----C4.S3.kartojasi stulpelyje.netinka
+  549. ----C4.S4.tinka
+  550. ----C5.S1.kartojasi eiluteje.netinka
+  551. ----C5.S2.kartojasi stulpelyje.netinka
+  552. ----C5.S3.tinka
+  553. ----C6.S1.kartojasi eiluteje.netinka
+  554. ----C6.S2.kartojasi stulpelyje.netinka
+  555. ----C6.S3.kartojasi eiluteje.netinka
+  556. ----C6.S4.kartojasi eiluteje.netinka
+  557. ----C6.S5.kartojasi stulpelyje.netinka
+  558. ----C6.S6.kartojasi stulpelyje.netinka
+  559. ----C6.S7.kartojasi eiluteje.netinka
+  560. ----C6.S8.kartojasi eiluteje.netinka
+  561. ----C6.S9.kartojasi eiluteje.netinka
+  562. ----C5.S4.kartojasi eiluteje.netinka
+  563. ----C5.S5.tinka
+  564. ----C6.S1.kartojasi eiluteje.netinka
+  565. ----C6.S2.kartojasi stulpelyje.netinka
+  566. ----C6.S3.kartojasi stulpelyje.netinka
+  567. ----C6.S4.kartojasi eiluteje.netinka
+  568. ----C6.S5.kartojasi eiluteje.netinka
+  569. ----C6.S6.kartojasi stulpelyje.netinka
+  570. ----C6.S7.kartojasi eiluteje.netinka
+  571. ----C6.S8.kartojasi eiluteje.netinka
+  572. ----C6.S9.kartojasi eiluteje.netinka
+  573. ----C5.S6.kartojasi stulpelyje.netinka
+  574. ----C5.S7.kartojasi eiluteje.netinka
+  575. ----C5.S8.kartojasi eiluteje.netinka
+  576. ----C5.S9.kartojasi eiluteje.netinka
+  577. ----C4.S5.tinka
+  578. ----C5.S1.kartojasi eiluteje.netinka
+  579. ----C5.S2.kartojasi stulpelyje.netinka
+  580. ----C5.S3.tinka
+  581. ----C6.S1.kartojasi eiluteje.netinka
+  582. ----C6.S2.kartojasi stulpelyje.netinka
+  583. ----C6.S3.kartojasi eiluteje.netinka
+  584. ----C6.S4.tinka
+  585. ----C7.S1.kartojasi eiluteje.netinka
+  586. ----C7.S2.kartojasi stulpelyje.netinka
+  587. ----C7.S3.kartojasi eiluteje.netinka
+  588. ----C7.S4.kartojasi eiluteje.netinka
+  589. ----C7.S5.kartojasi eiluteje.netinka
+  590. ----C7.S6.kartojasi stulpelyje.netinka
+  591. ----C7.S7.kartojasi eiluteje.netinka
+  592. ----C7.S8.kartojasi eiluteje.netinka
+  593. ----C7.S9.kartojasi eiluteje.netinka
+  594. ----C6.S5.kartojasi eiluteje.netinka
+  595. ----C6.S6.kartojasi stulpelyje.netinka
+  596. ----C6.S7.kartojasi eiluteje.netinka
+  597. ----C6.S8.kartojasi eiluteje.netinka
+  598. ----C6.S9.kartojasi eiluteje.netinka
+  599. ----C5.S4.kartojasi stulpelyje.netinka
+  600. ----C5.S5.kartojasi eiluteje.netinka
+  601. ----C5.S6.kartojasi stulpelyje.netinka
+  602. ----C5.S7.kartojasi eiluteje.netinka
+  603. ----C5.S8.kartojasi eiluteje.netinka
+  604. ----C5.S9.kartojasi eiluteje.netinka
+  605. ----C4.S6.kartojasi stulpelyje.netinka
+  606. ----C4.S7.kartojasi eiluteje.netinka
+  607. ----C4.S8.kartojasi eiluteje.netinka
+  608. ----C4.S9.kartojasi eiluteje.netinka
+  609. ----C2.S2.tinka
+  610. ----C3.S1.kartojasi stulpelyje.netinka
+  611. ----C3.S2.kartojasi eiluteje.netinka
+  612. ----C3.S3.kartojasi stulpelyje.netinka
+  613. ----C3.S4.kartojasi kvadrate.netinka
+  614. ----C3.S5.kartojasi stulpelyje.netinka
+  615. ----C3.S6.kartojasi stulpelyje.netinka
+  616. ----C3.S7.kartojasi eiluteje.netinka
+  617. ----C3.S8.kartojasi eiluteje.netinka
+  618. ----C3.S9.tinka
+  619. ----C4.S1.kartojasi stulpelyje.netinka
+  620. ----C4.S2.kartojasi eiluteje.netinka
+  621. ----C4.S3.kartojasi stulpelyje.netinka
+  622. ----C4.S4.tinka
+  623. ----C5.S1.kartojasi stulpelyje.netinka
+  624. ----C5.S2.kartojasi eiluteje.netinka
+  625. ----C5.S3.tinka
+  626. ----C6.S1.kartojasi stulpelyje.netinka
+  627. ----C6.S2.kartojasi eiluteje.netinka
+  628. ----C6.S3.kartojasi eiluteje.netinka
+  629. ----C6.S4.kartojasi eiluteje.netinka
+  630. ----C6.S5.kartojasi stulpelyje.netinka
+  631. ----C6.S6.kartojasi stulpelyje.netinka
+  632. ----C6.S7.kartojasi eiluteje.netinka
+  633. ----C6.S8.kartojasi eiluteje.netinka
+  634. ----C6.S9.kartojasi eiluteje.netinka
+  635. ----C5.S4.kartojasi eiluteje.netinka
+  636. ----C5.S5.tinka
+  637. ----C6.S1.kartojasi stulpelyje.netinka
+  638. ----C6.S2.kartojasi eiluteje.netinka
+  639. ----C6.S3.kartojasi stulpelyje.netinka
+  640. ----C6.S4.kartojasi eiluteje.netinka
+  641. ----C6.S5.kartojasi eiluteje.netinka
+  642. ----C6.S6.kartojasi stulpelyje.netinka
+  643. ----C6.S7.kartojasi eiluteje.netinka
+  644. ----C6.S8.kartojasi eiluteje.netinka
+  645. ----C6.S9.kartojasi eiluteje.netinka
+  646. ----C5.S6.kartojasi stulpelyje.netinka
+  647. ----C5.S7.kartojasi eiluteje.netinka
+  648. ----C5.S8.kartojasi eiluteje.netinka
+  649. ----C5.S9.kartojasi eiluteje.netinka
+  650. ----C4.S5.tinka
+  651. ----C5.S1.kartojasi stulpelyje.netinka
+  652. ----C5.S2.kartojasi eiluteje.netinka
+  653. ----C5.S3.tinka
+  654. ----C6.S1.kartojasi stulpelyje.netinka
+  655. ----C6.S2.kartojasi eiluteje.netinka
+  656. ----C6.S3.kartojasi eiluteje.netinka
+  657. ----C6.S4.tinka
+  658. ----C7.S1.tinka
+  659. ----C8.S1.kartojasi eiluteje.netinka
+  660. ----C8.S2.kartojasi eiluteje.netinka
+  661. ----C8.S3.kartojasi eiluteje.netinka
+  662. ----C8.S4.kartojasi eiluteje.netinka
+  663. ----C8.S5.kartojasi eiluteje.netinka
+  664. ----C8.S6.tinka
+  665. -----C1.S1.tinka
+  666. -----C2.S1.kartojasi eiluteje.netinka
+  667. -----C2.S2.kartojasi eiluteje.netinka
+  668. -----C2.S3.kartojasi kvadrate.netinka
+  669. -----C2.S4.kartojasi stulpelyje.netinka
+  670. -----C2.S5.kartojasi stulpelyje.netinka
+  671. -----C2.S6.kartojasi eiluteje.netinka
+  672. -----C2.S7.kartojasi eiluteje.netinka
+  673. -----C2.S8.kartojasi eiluteje.netinka
+  674. -----C2.S9.kartojasi kvadrate.netinka
+  675. -----C1.S2.kartojasi eiluteje.netinka
+  676. -----C1.S3.kartojasi stulpelyje.netinka
+  677. -----C1.S4.kartojasi stulpelyje.netinka
+  678. -----C1.S5.tinka
+  679. -----C2.S1.tinka
+  680. -----C5.S1.kartojasi eiluteje.netinka
+  681. -----C5.S2.kartojasi eiluteje.netinka
+  682. -----C5.S3.kartojasi stulpelyje.netinka
+  683. -----C5.S4.kartojasi stulpelyje.netinka
+  684. -----C5.S5.kartojasi eiluteje.netinka
+  685. -----C5.S6.kartojasi eiluteje.netinka
+  686. -----C5.S7.kartojasi eiluteje.netinka
+  687. -----C5.S8.kartojasi eiluteje.netinka
+  688. -----C5.S9.tinka
+  689. -----C8.S1.kartojasi eiluteje.netinka
+  690. -----C8.S2.kartojasi eiluteje.netinka
+  691. -----C8.S3.tinka
+  692. -----C9.S1.kartojasi eiluteje.netinka
+  693. -----C9.S2.kartojasi eiluteje.netinka
+  694. -----C9.S3.kartojasi eiluteje.netinka
+  695. -----C9.S4.tinka
+  696. ------C1.S1.tinka
+  697. ------C2.S1.kartojasi eiluteje.netinka
+  698. ------C2.S2.kartojasi eiluteje.netinka
+  699. ------C2.S3.tinka
+  700. ------C5.S1.kartojasi eiluteje.netinka
+  701. ------C5.S2.kartojasi eiluteje.netinka
+  702. ------C5.S3.kartojasi eiluteje.netinka
+  703. ------C5.S4.kartojasi stulpelyje.netinka
+  704. ------C5.S5.kartojasi eiluteje.netinka
+  705. ------C5.S6.kartojasi eiluteje.netinka
+  706. ------C5.S7.kartojasi stulpelyje.netinka
+  707. ------C5.S8.tinka
+  708. ------C8.S1.kartojasi eiluteje.netinka
+  709. ------C8.S2.kartojasi eiluteje.netinka
+  710. ------C8.S3.kartojasi eiluteje.netinka
+  711. ------C8.S4.tinka
+  712. ------C9.S1.kartojasi eiluteje.netinka
+  713. ------C9.S2.kartojasi eiluteje.netinka
+  714. ------C9.S3.kartojasi eiluteje.netinka
+  715. ------C9.S4.kartojasi eiluteje.netinka
+  716. ------C9.S5.kartojasi eiluteje.netinka
+  717. ------C9.S6.kartojasi eiluteje.netinka
+  718. ------C9.S7.kartojasi stulpelyje.netinka
+  719. ------C9.S8.kartojasi eiluteje.netinka
+  720. ------C9.S9.kartojasi eiluteje.netinka
+  721. ------C8.S5.kartojasi eiluteje.netinka
+  722. ------C8.S6.kartojasi eiluteje.netinka
+  723. ------C8.S7.kartojasi stulpelyje.netinka
+  724. ------C8.S8.kartojasi eiluteje.netinka
+  725. ------C8.S9.kartojasi eiluteje.netinka
+  726. ------C5.S9.kartojasi eiluteje.netinka
+  727. ------C2.S4.kartojasi stulpelyje.netinka
+  728. ------C2.S5.kartojasi eiluteje.netinka
+  729. ------C2.S6.kartojasi eiluteje.netinka
+  730. ------C2.S7.tinka
+  731. ------C5.S1.kartojasi eiluteje.netinka
+  732. ------C5.S2.kartojasi eiluteje.netinka
+  733. ------C5.S3.kartojasi stulpelyje.netinka
+  734. ------C5.S4.kartojasi stulpelyje.netinka
+  735. ------C5.S5.kartojasi eiluteje.netinka
+  736. ------C5.S6.kartojasi eiluteje.netinka
+  737. ------C5.S7.kartojasi eiluteje.netinka
+  738. ------C5.S8.tinka
+  739. ------C8.S1.kartojasi eiluteje.netinka
+  740. ------C8.S2.kartojasi eiluteje.netinka
+  741. ------C8.S3.kartojasi stulpelyje.netinka
+  742. ------C8.S4.tinka
+  743. ------C9.S1.kartojasi eiluteje.netinka
+  744. ------C9.S2.kartojasi eiluteje.netinka
+  745. ------C9.S3.kartojasi stulpelyje.netinka
+  746. ------C9.S4.kartojasi eiluteje.netinka
+  747. ------C9.S5.kartojasi eiluteje.netinka
+  748. ------C9.S6.kartojasi eiluteje.netinka
+  749. ------C9.S7.kartojasi eiluteje.netinka
+  750. ------C9.S8.kartojasi eiluteje.netinka
+  751. ------C9.S9.kartojasi eiluteje.netinka
+  752. ------C8.S5.kartojasi eiluteje.netinka
+  753. ------C8.S6.kartojasi eiluteje.netinka
+  754. ------C8.S7.kartojasi eiluteje.netinka
+  755. ------C8.S8.kartojasi eiluteje.netinka
+  756. ------C8.S9.kartojasi eiluteje.netinka
+  757. ------C5.S9.kartojasi eiluteje.netinka
+  758. ------C2.S8.kartojasi stulpelyje.netinka
+  759. ------C2.S9.kartojasi eiluteje.netinka
+  760. ------C1.S2.kartojasi eiluteje.netinka
+  761. ------C1.S3.kartojasi stulpelyje.netinka
+  762. ------C1.S4.kartojasi stulpelyje.netinka
+  763. ------C1.S5.kartojasi eiluteje.netinka
+  764. ------C1.S6.kartojasi eiluteje.netinka
+  765. ------C1.S7.kartojasi stulpelyje.netinka
+  766. ------C1.S8.kartojasi stulpelyje.netinka
+  767. ------C1.S9.kartojasi eiluteje.netinka
+  768. -----C9.S5.kartojasi eiluteje.netinka
+  769. -----C9.S6.kartojasi eiluteje.netinka
+  770. -----C9.S7.kartojasi eiluteje.netinka
+  771. -----C9.S8.kartojasi eiluteje.netinka
+  772. -----C9.S9.kartojasi eiluteje.netinka
+  773. -----C8.S4.tinka
+  774. -----C9.S1.kartojasi eiluteje.netinka
+  775. -----C9.S2.kartojasi eiluteje.netinka
+  776. -----C9.S3.kartojasi stulpelyje.netinka
+  777. -----C9.S4.kartojasi eiluteje.netinka
+  778. -----C9.S5.kartojasi eiluteje.netinka
+  779. -----C9.S6.kartojasi eiluteje.netinka
+  780. -----C9.S7.kartojasi eiluteje.netinka
+  781. -----C9.S8.kartojasi eiluteje.netinka
+  782. -----C9.S9.kartojasi eiluteje.netinka
+  783. -----C8.S5.kartojasi eiluteje.netinka
+  784. -----C8.S6.kartojasi eiluteje.netinka
+  785. -----C8.S7.kartojasi eiluteje.netinka
+  786. -----C8.S8.kartojasi eiluteje.netinka
+  787. -----C8.S9.kartojasi eiluteje.netinka
+  788. -----C2.S2.kartojasi eiluteje.netinka
+  789. -----C2.S3.kartojasi kvadrate.netinka
+  790. -----C2.S4.kartojasi stulpelyje.netinka
+  791. -----C2.S5.kartojasi eiluteje.netinka
+  792. -----C2.S6.kartojasi eiluteje.netinka
+  793. -----C2.S7.kartojasi eiluteje.netinka
+  794. -----C2.S8.kartojasi eiluteje.netinka
+  795. -----C2.S9.kartojasi kvadrate.netinka
+  796. -----C1.S6.kartojasi eiluteje.netinka
+  797. -----C1.S7.kartojasi eiluteje.netinka
+  798. -----C1.S8.kartojasi eiluteje.netinka
+  799. -----C1.S9.kartojasi stulpelyje.netinka
+  800. ----C8.S7.kartojasi eiluteje.netinka
+  801. ----C8.S8.kartojasi eiluteje.netinka
+  802. ----C8.S9.kartojasi eiluteje.netinka
+  803. ----C7.S2.kartojasi eiluteje.netinka
+  804. ----C7.S3.kartojasi eiluteje.netinka
+  805. ----C7.S4.kartojasi eiluteje.netinka
+  806. ----C7.S5.kartojasi eiluteje.netinka
+  807. ----C7.S6.kartojasi stulpelyje.netinka
+  808. ----C7.S7.kartojasi eiluteje.netinka
+  809. ----C7.S8.kartojasi eiluteje.netinka
+  810. ----C7.S9.kartojasi eiluteje.netinka
+  811. ----C6.S5.kartojasi eiluteje.netinka
+  812. ----C6.S6.kartojasi stulpelyje.netinka
+  813. ----C6.S7.kartojasi eiluteje.netinka
+  814. ----C6.S8.kartojasi eiluteje.netinka
+  815. ----C6.S9.kartojasi eiluteje.netinka
+  816. ----C5.S4.kartojasi stulpelyje.netinka
+  817. ----C5.S5.kartojasi eiluteje.netinka
+  818. ----C5.S6.kartojasi stulpelyje.netinka
+  819. ----C5.S7.kartojasi eiluteje.netinka
+  820. ----C5.S8.kartojasi eiluteje.netinka
+  821. ----C5.S9.kartojasi eiluteje.netinka
+  822. ----C4.S6.kartojasi stulpelyje.netinka
+  823. ----C4.S7.kartojasi eiluteje.netinka
+  824. ----C4.S8.kartojasi eiluteje.netinka
+  825. ----C4.S9.kartojasi eiluteje.netinka
+  826. ----C2.S3.kartojasi kvadrate.netinka
+  827. ----C2.S4.kartojasi stulpelyje.netinka
+  828. ----C2.S5.kartojasi stulpelyje.netinka
+  829. ----C2.S6.kartojasi stulpelyje.netinka
+  830. ----C2.S7.kartojasi eiluteje.netinka
+  831. ----C2.S8.kartojasi eiluteje.netinka
+  832. ----C2.S9.tinka
+  833. ----C3.S1.kartojasi stulpelyje.netinka
+  834. ----C3.S2.kartojasi stulpelyje.netinka
+  835. ----C3.S3.kartojasi stulpelyje.netinka
+  836. ----C3.S4.kartojasi kvadrate.netinka
+  837. ----C3.S5.kartojasi stulpelyje.netinka
+  838. ----C3.S6.kartojasi stulpelyje.netinka
+  839. ----C3.S7.kartojasi eiluteje.netinka
+  840. ----C3.S8.kartojasi eiluteje.netinka
+  841. ----C3.S9.kartojasi eiluteje.netinka
+  842. ---C9.S6.kartojasi eiluteje.netinka
+  843. ---C9.S7.kartojasi eiluteje.netinka
+  844. ---C9.S8.kartojasi eiluteje.netinka
+  845. ---C9.S9.kartojasi eiluteje.netinka
+  846. ---C8.S8.kartojasi eiluteje.netinka
+  847. ---C8.S9.kartojasi eiluteje.netinka
+  848. ---C5.S7.kartojasi stulpelyje.netinka
+  849. ---C5.S8.kartojasi eiluteje.netinka
+  850. ---C5.S9.kartojasi eiluteje.netinka
+  851. ---C2.S5.kartojasi stulpelyje.netinka
+  852. ---C2.S6.kartojasi stulpelyje.netinka
+  853. ---C2.S7.kartojasi kvadrate.netinka
+  854. ---C2.S8.kartojasi eiluteje.netinka
+  855. ---C2.S9.kartojasi eiluteje.netinka
+  856. ---C1.S4.kartojasi stulpelyje.netinka
+  857. ---C1.S5.tinka
+  858. ---C2.S1.kartojasi eiluteje.netinka
+  859. ---C2.S2.kartojasi eiluteje.netinka
+  860. ---C2.S3.tinka
+  861. ---C5.S1.kartojasi eiluteje.netinka
+  862. ---C5.S2.kartojasi eiluteje.netinka
+  863. ---C5.S3.kartojasi eiluteje.netinka
+  864. ---C5.S4.kartojasi stulpelyje.netinka
+  865. ---C5.S5.kartojasi eiluteje.netinka
+  866. ---C5.S6.tinka
+  867. ---C8.S1.kartojasi eiluteje.netinka
+  868. ---C8.S2.kartojasi eiluteje.netinka
+  869. ---C8.S3.kartojasi eiluteje.netinka
+  870. ---C8.S4.tinka
+  871. ---C9.S1.kartojasi eiluteje.netinka
+  872. ---C9.S2.kartojasi eiluteje.netinka
+  873. ---C9.S3.kartojasi eiluteje.netinka
+  874. ---C9.S4.kartojasi eiluteje.netinka
+  875. ---C9.S5.kartojasi eiluteje.netinka
+  876. ---C9.S6.kartojasi eiluteje.netinka
+  877. ---C9.S7.kartojasi stulpelyje.netinka
+  878. ---C9.S8.kartojasi eiluteje.netinka
+  879. ---C9.S9.kartojasi eiluteje.netinka
+  880. ---C8.S5.kartojasi eiluteje.netinka
+  881. ---C8.S6.kartojasi eiluteje.netinka
+  882. ---C8.S7.tinka
+  883. ---C9.S1.kartojasi eiluteje.netinka
+  884. ---C9.S2.kartojasi eiluteje.netinka
+  885. ---C9.S3.kartojasi eiluteje.netinka
+  886. ---C9.S4.tinka
+  887. ----C2.S1.tinka
+  888. ----C3.S1.kartojasi eiluteje.netinka
+  889. ----C3.S2.kartojasi stulpelyje.netinka
+  890. ----C3.S3.kartojasi stulpelyje.netinka
+  891. ----C3.S4.tinka
+  892. ----C4.S1.kartojasi eiluteje.netinka
+  893. ----C4.S2.kartojasi stulpelyje.netinka
+  894. ----C4.S3.kartojasi stulpelyje.netinka
+  895. ----C4.S4.kartojasi eiluteje.netinka
+  896. ----C4.S5.tinka
+  897. ----C5.S1.kartojasi eiluteje.netinka
+  898. ----C5.S2.kartojasi stulpelyje.netinka
+  899. ----C5.S3.tinka
+  900. ----C6.S1.kartojasi eiluteje.netinka
+  901. ----C6.S2.kartojasi stulpelyje.netinka
+  902. ----C6.S3.kartojasi eiluteje.netinka
+  903. ----C6.S4.kartojasi eiluteje.netinka
+  904. ----C6.S5.kartojasi eiluteje.netinka
+  905. ----C6.S6.kartojasi stulpelyje.netinka
+  906. ----C6.S7.kartojasi eiluteje.netinka
+  907. ----C6.S8.kartojasi eiluteje.netinka
+  908. ----C6.S9.kartojasi stulpelyje.netinka
+  909. ----C5.S4.kartojasi eiluteje.netinka
+  910. ----C5.S5.kartojasi eiluteje.netinka
+  911. ----C5.S6.kartojasi stulpelyje.netinka
+  912. ----C5.S7.kartojasi eiluteje.netinka
+  913. ----C5.S8.kartojasi eiluteje.netinka
+  914. ----C5.S9.tinka
+  915. ----C6.S1.kartojasi eiluteje.netinka
+  916. ----C6.S2.kartojasi stulpelyje.netinka
+  917. ----C6.S3.kartojasi stulpelyje.netinka
+  918. ----C6.S4.kartojasi eiluteje.netinka
+  919. ----C6.S5.kartojasi eiluteje.netinka
+  920. ----C6.S6.kartojasi stulpelyje.netinka
+  921. ----C6.S7.kartojasi eiluteje.netinka
+  922. ----C6.S8.kartojasi eiluteje.netinka
+  923. ----C6.S9.kartojasi eiluteje.netinka
+  924. ----C4.S6.kartojasi stulpelyje.netinka
+  925. ----C4.S7.kartojasi eiluteje.netinka
+  926. ----C4.S8.kartojasi eiluteje.netinka
+  927. ----C4.S9.kartojasi stulpelyje.netinka
+  928. ----C3.S5.kartojasi stulpelyje.netinka
+  929. ----C3.S6.kartojasi stulpelyje.netinka
+  930. ----C3.S7.kartojasi eiluteje.netinka
+  931. ----C3.S8.kartojasi eiluteje.netinka
+  932. ----C3.S9.tinka
+  933. ----C4.S1.kartojasi eiluteje.netinka
+  934. ----C4.S2.kartojasi stulpelyje.netinka
+  935. ----C4.S3.kartojasi stulpelyje.netinka
+  936. ----C4.S4.tinka
+  937. ----C5.S1.kartojasi eiluteje.netinka
+  938. ----C5.S2.kartojasi stulpelyje.netinka
+  939. ----C5.S3.tinka
+  940. ----C6.S1.kartojasi eiluteje.netinka
+  941. ----C6.S2.kartojasi stulpelyje.netinka
+  942. ----C6.S3.kartojasi eiluteje.netinka
+  943. ----C6.S4.kartojasi eiluteje.netinka
+  944. ----C6.S5.kartojasi stulpelyje.netinka
+  945. ----C6.S6.kartojasi stulpelyje.netinka
+  946. ----C6.S7.kartojasi eiluteje.netinka
+  947. ----C6.S8.kartojasi eiluteje.netinka
+  948. ----C6.S9.kartojasi eiluteje.netinka
+  949. ----C5.S4.kartojasi eiluteje.netinka
+  950. ----C5.S5.tinka
+  951. ----C6.S1.kartojasi eiluteje.netinka
+  952. ----C6.S2.kartojasi stulpelyje.netinka
+  953. ----C6.S3.kartojasi stulpelyje.netinka
+  954. ----C6.S4.kartojasi eiluteje.netinka
+  955. ----C6.S5.kartojasi eiluteje.netinka
+  956. ----C6.S6.kartojasi stulpelyje.netinka
+  957. ----C6.S7.kartojasi eiluteje.netinka
+  958. ----C6.S8.kartojasi eiluteje.netinka
+  959. ----C6.S9.kartojasi eiluteje.netinka
+  960. ----C5.S6.kartojasi stulpelyje.netinka
+  961. ----C5.S7.kartojasi eiluteje.netinka
+  962. ----C5.S8.kartojasi eiluteje.netinka
+  963. ----C5.S9.kartojasi eiluteje.netinka
+  964. ----C4.S5.tinka
+  965. ----C5.S1.kartojasi eiluteje.netinka
+  966. ----C5.S2.kartojasi stulpelyje.netinka
+  967. ----C5.S3.tinka
+  968. ----C6.S1.kartojasi eiluteje.netinka
+  969. ----C6.S2.kartojasi stulpelyje.netinka
+  970. ----C6.S3.kartojasi eiluteje.netinka
+  971. ----C6.S4.tinka
+  972. ----C7.S1.kartojasi eiluteje.netinka
+  973. ----C7.S2.kartojasi stulpelyje.netinka
+  974. ----C7.S3.kartojasi eiluteje.netinka
+  975. ----C7.S4.kartojasi eiluteje.netinka
+  976. ----C7.S5.kartojasi eiluteje.netinka
+  977. ----C7.S6.kartojasi stulpelyje.netinka
+  978. ----C7.S7.kartojasi eiluteje.netinka
+  979. ----C7.S8.kartojasi eiluteje.netinka
+  980. ----C7.S9.kartojasi eiluteje.netinka
+  981. ----C6.S5.kartojasi eiluteje.netinka
+  982. ----C6.S6.kartojasi stulpelyje.netinka
+  983. ----C6.S7.kartojasi eiluteje.netinka
+  984. ----C6.S8.kartojasi eiluteje.netinka
+  985. ----C6.S9.kartojasi eiluteje.netinka
+  986. ----C5.S4.kartojasi stulpelyje.netinka
+  987. ----C5.S5.kartojasi eiluteje.netinka
+  988. ----C5.S6.kartojasi stulpelyje.netinka
+  989. ----C5.S7.kartojasi eiluteje.netinka
+  990. ----C5.S8.kartojasi eiluteje.netinka
+  991. ----C5.S9.kartojasi eiluteje.netinka
+  992. ----C4.S6.kartojasi stulpelyje.netinka
+  993. ----C4.S7.kartojasi eiluteje.netinka
+  994. ----C4.S8.kartojasi eiluteje.netinka
+  995. ----C4.S9.kartojasi eiluteje.netinka
+  996. ----C2.S2.tinka
+  997. ----C3.S1.kartojasi stulpelyje.netinka
+  998. ----C3.S2.kartojasi eiluteje.netinka
+  999. ----C3.S3.kartojasi stulpelyje.netinka
+ 1000. ----C3.S4.tinka
+ 1001. ----C4.S1.kartojasi stulpelyje.netinka
+ 1002. ----C4.S2.kartojasi eiluteje.netinka
+ 1003. ----C4.S3.kartojasi stulpelyje.netinka
+ 1004. ----C4.S4.kartojasi eiluteje.netinka
+ 1005. ----C4.S5.tinka
+ 1006. ----C5.S1.kartojasi stulpelyje.netinka
+ 1007. ----C5.S2.kartojasi eiluteje.netinka
+ 1008. ----C5.S3.tinka
+ 1009. ----C6.S1.kartojasi stulpelyje.netinka
+ 1010. ----C6.S2.kartojasi eiluteje.netinka
+ 1011. ----C6.S3.kartojasi eiluteje.netinka
+ 1012. ----C6.S4.kartojasi eiluteje.netinka
+ 1013. ----C6.S5.kartojasi eiluteje.netinka
+ 1014. ----C6.S6.kartojasi stulpelyje.netinka
+ 1015. ----C6.S7.kartojasi eiluteje.netinka
+ 1016. ----C6.S8.kartojasi eiluteje.netinka
+ 1017. ----C6.S9.kartojasi stulpelyje.netinka
+ 1018. ----C5.S4.kartojasi eiluteje.netinka
+ 1019. ----C5.S5.kartojasi eiluteje.netinka
+ 1020. ----C5.S6.kartojasi stulpelyje.netinka
+ 1021. ----C5.S7.kartojasi eiluteje.netinka
+ 1022. ----C5.S8.kartojasi eiluteje.netinka
+ 1023. ----C5.S9.tinka
+ 1024. ----C6.S1.kartojasi stulpelyje.netinka
+ 1025. ----C6.S2.kartojasi eiluteje.netinka
+ 1026. ----C6.S3.kartojasi stulpelyje.netinka
+ 1027. ----C6.S4.kartojasi eiluteje.netinka
+ 1028. ----C6.S5.kartojasi eiluteje.netinka
+ 1029. ----C6.S6.kartojasi stulpelyje.netinka
+ 1030. ----C6.S7.kartojasi eiluteje.netinka
+ 1031. ----C6.S8.kartojasi eiluteje.netinka
+ 1032. ----C6.S9.kartojasi eiluteje.netinka
+ 1033. ----C4.S6.kartojasi stulpelyje.netinka
+ 1034. ----C4.S7.kartojasi eiluteje.netinka
+ 1035. ----C4.S8.kartojasi eiluteje.netinka
+ 1036. ----C4.S9.kartojasi stulpelyje.netinka
+ 1037. ----C3.S5.kartojasi stulpelyje.netinka
+ 1038. ----C3.S6.kartojasi stulpelyje.netinka
+ 1039. ----C3.S7.kartojasi eiluteje.netinka
+ 1040. ----C3.S8.kartojasi eiluteje.netinka
+ 1041. ----C3.S9.tinka
+ 1042. ----C4.S1.kartojasi stulpelyje.netinka
+ 1043. ----C4.S2.kartojasi eiluteje.netinka
+ 1044. ----C4.S3.kartojasi stulpelyje.netinka
+ 1045. ----C4.S4.tinka
+ 1046. ----C5.S1.kartojasi stulpelyje.netinka
+ 1047. ----C5.S2.kartojasi eiluteje.netinka
+ 1048. ----C5.S3.tinka
+ 1049. ----C6.S1.kartojasi stulpelyje.netinka
+ 1050. ----C6.S2.kartojasi eiluteje.netinka
+ 1051. ----C6.S3.kartojasi eiluteje.netinka
+ 1052. ----C6.S4.kartojasi eiluteje.netinka
+ 1053. ----C6.S5.kartojasi stulpelyje.netinka
+ 1054. ----C6.S6.kartojasi stulpelyje.netinka
+ 1055. ----C6.S7.kartojasi eiluteje.netinka
+ 1056. ----C6.S8.kartojasi eiluteje.netinka
+ 1057. ----C6.S9.kartojasi eiluteje.netinka
+ 1058. ----C5.S4.kartojasi eiluteje.netinka
+ 1059. ----C5.S5.tinka
+ 1060. ----C6.S1.kartojasi stulpelyje.netinka
+ 1061. ----C6.S2.kartojasi eiluteje.netinka
+ 1062. ----C6.S3.kartojasi stulpelyje.netinka
+ 1063. ----C6.S4.kartojasi eiluteje.netinka
+ 1064. ----C6.S5.kartojasi eiluteje.netinka
+ 1065. ----C6.S6.kartojasi stulpelyje.netinka
+ 1066. ----C6.S7.kartojasi eiluteje.netinka
+ 1067. ----C6.S8.kartojasi eiluteje.netinka
+ 1068. ----C6.S9.kartojasi eiluteje.netinka
+ 1069. ----C5.S6.kartojasi stulpelyje.netinka
+ 1070. ----C5.S7.kartojasi eiluteje.netinka
+ 1071. ----C5.S8.kartojasi eiluteje.netinka
+ 1072. ----C5.S9.kartojasi eiluteje.netinka
+ 1073. ----C4.S5.tinka
+ 1074. ----C5.S1.kartojasi stulpelyje.netinka
+ 1075. ----C5.S2.kartojasi eiluteje.netinka
+ 1076. ----C5.S3.tinka
+ 1077. ----C6.S1.kartojasi stulpelyje.netinka
+ 1078. ----C6.S2.kartojasi eiluteje.netinka
+ 1079. ----C6.S3.kartojasi eiluteje.netinka
+ 1080. ----C6.S4.tinka
+ 1081. ----C7.S1.tinka
+ 1082. ----C8.S1.kartojasi eiluteje.netinka
+ 1083. ----C8.S2.kartojasi eiluteje.netinka
+ 1084. ----C8.S3.kartojasi eiluteje.netinka
+ 1085. ----C8.S4.kartojasi eiluteje.netinka
+ 1086. ----C8.S5.kartojasi eiluteje.netinka
+ 1087. ----C8.S6.tinka
+ 1088. -----C1.S1.tinka
+ 1089. -----C2.S1.kartojasi eiluteje.netinka
+ 1090. -----C2.S2.kartojasi eiluteje.netinka
+ 1091. -----C2.S3.kartojasi stulpelyje.netinka
+ 1092. -----C2.S4.tinka
+ 1093. -----C5.S1.kartojasi eiluteje.netinka
+ 1094. -----C5.S2.kartojasi eiluteje.netinka
+ 1095. -----C5.S3.kartojasi stulpelyje.netinka
+ 1096. -----C5.S4.kartojasi eiluteje.netinka
+ 1097. -----C5.S5.kartojasi kvadrate.netinka
+ 1098. -----C5.S6.kartojasi eiluteje.netinka
+ 1099. -----C5.S7.kartojasi eiluteje.netinka
+ 1100. -----C5.S8.kartojasi eiluteje.netinka
+ 1101. -----C5.S9.tinka
+ 1102. -----C8.S1.kartojasi eiluteje.netinka
+ 1103. -----C8.S2.kartojasi eiluteje.netinka
+ 1104. -----C8.S3.tinka
+ 1105. -----C9.S1.kartojasi eiluteje.netinka
+ 1106. -----C9.S2.kartojasi eiluteje.netinka
+ 1107. -----C9.S3.kartojasi eiluteje.netinka
+ 1108. -----C9.S4.kartojasi eiluteje.netinka
+ 1109. -----C9.S5.tinka
+ 1110. ------C1.S1.kartojasi stulpelyje.netinka
+ 1111. ------C1.S2.kartojasi eiluteje.netinka
+ 1112. ------C1.S3.tinka
+ 1113. ------C2.S1.tinka
+ 1114. ------C5.S1.kartojasi eiluteje.netinka
+ 1115. ------C5.S2.kartojasi eiluteje.netinka
+ 1116. ------C5.S3.kartojasi eiluteje.netinka
+ 1117. ------C5.S4.kartojasi stulpelyje.netinka
+ 1118. ------C5.S5.kartojasi eiluteje.netinka
+ 1119. ------C5.S6.kartojasi eiluteje.netinka
+ 1120. ------C5.S7.kartojasi stulpelyje.netinka
+ 1121. ------C5.S8.tinka
+ 1122. ------C8.S1.kartojasi eiluteje.netinka
+ 1123. ------C8.S2.kartojasi eiluteje.netinka
+ 1124. ------C8.S3.kartojasi eiluteje.netinka
+ 1125. ------C8.S4.tinka
+ 1126. ------C9.S1.kartojasi eiluteje.netinka
+ 1127. ------C9.S2.kartojasi eiluteje.netinka
+ 1128. ------C9.S3.kartojasi eiluteje.netinka
+ 1129. ------C9.S4.kartojasi eiluteje.netinka
+ 1130. ------C9.S5.kartojasi eiluteje.netinka
+ 1131. ------C9.S6.kartojasi eiluteje.netinka
+ 1132. ------C9.S7.kartojasi stulpelyje.netinka
+ 1133. ------C9.S8.kartojasi eiluteje.netinka
+ 1134. ------C9.S9.kartojasi eiluteje.netinka
+ 1135. ------C8.S5.kartojasi eiluteje.netinka
+ 1136. ------C8.S6.kartojasi eiluteje.netinka
+ 1137. ------C8.S7.kartojasi stulpelyje.netinka
+ 1138. ------C8.S8.kartojasi eiluteje.netinka
+ 1139. ------C8.S9.kartojasi eiluteje.netinka
+ 1140. ------C5.S9.kartojasi eiluteje.netinka
+ 1141. ------C2.S2.kartojasi eiluteje.netinka
+ 1142. ------C2.S3.kartojasi eiluteje.netinka
+ 1143. ------C2.S4.kartojasi stulpelyje.netinka
+ 1144. ------C2.S5.kartojasi eiluteje.netinka
+ 1145. ------C2.S6.kartojasi eiluteje.netinka
+ 1146. ------C2.S7.tinka
+ 1147. ------C5.S1.kartojasi stulpelyje.netinka
+ 1148. ------C5.S2.kartojasi eiluteje.netinka
+ 1149. ------C5.S3.kartojasi eiluteje.netinka
+ 1150. ------C5.S4.kartojasi stulpelyje.netinka
+ 1151. ------C5.S5.kartojasi eiluteje.netinka
+ 1152. ------C5.S6.kartojasi eiluteje.netinka
+ 1153. ------C5.S7.kartojasi eiluteje.netinka
+ 1154. ------C5.S8.tinka
+ 1155. ------C8.S1.tinka
+ 1156. ------C9.S1.kartojasi eiluteje.netinka
+ 1157. ------C9.S2.kartojasi eiluteje.netinka
+ 1158. ------C9.S3.kartojasi eiluteje.netinka
+ 1159. ------C9.S4.kartojasi stulpelyje.netinka
+ 1160. ------C9.S5.kartojasi eiluteje.netinka
+ 1161. ------C9.S6.kartojasi eiluteje.netinka
+ 1162. ------C9.S7.kartojasi eiluteje.netinka
+ 1163. ------C9.S8.kartojasi eiluteje.netinka
+ 1164. ------C9.S9.kartojasi eiluteje.netinka
+ 1165. ------C8.S2.kartojasi eiluteje.netinka
+ 1166. ------C8.S3.kartojasi eiluteje.netinka
+ 1167. ------C8.S4.tinka
+ 1168. ------C9.S1.kartojasi stulpelyje.netinka
+ 1169. ------C9.S2.kartojasi eiluteje.netinka
+ 1170. ------C9.S3.kartojasi eiluteje.netinka
+ 1171. ------C9.S4.kartojasi eiluteje.netinka
+ 1172. ------C9.S5.kartojasi eiluteje.netinka
+ 1173. ------C9.S6.kartojasi eiluteje.netinka
+ 1174. ------C9.S7.kartojasi eiluteje.netinka
+ 1175. ------C9.S8.kartojasi eiluteje.netinka
+ 1176. ------C9.S9.kartojasi eiluteje.netinka
+ 1177. ------C8.S5.kartojasi eiluteje.netinka
+ 1178. ------C8.S6.kartojasi eiluteje.netinka
+ 1179. ------C8.S7.kartojasi eiluteje.netinka
+ 1180. ------C8.S8.kartojasi eiluteje.netinka
+ 1181. ------C8.S9.kartojasi eiluteje.netinka
+ 1182. ------C5.S9.kartojasi eiluteje.netinka
+ 1183. ------C2.S8.kartojasi stulpelyje.netinka
+ 1184. ------C2.S9.kartojasi eiluteje.netinka
+ 1185. ------C1.S4.kartojasi stulpelyje.netinka
+ 1186. ------C1.S5.kartojasi eiluteje.netinka
+ 1187. ------C1.S6.kartojasi eiluteje.netinka
+ 1188. ------C1.S7.kartojasi stulpelyje.netinka
+ 1189. ------C1.S8.kartojasi stulpelyje.netinka
+ 1190. ------C1.S9.kartojasi eiluteje.netinka
+ 1191. -----C9.S6.kartojasi eiluteje.netinka
+ 1192. -----C9.S7.kartojasi eiluteje.netinka
+ 1193. -----C9.S8.kartojasi eiluteje.netinka
+ 1194. -----C9.S9.kartojasi eiluteje.netinka
+ 1195. -----C8.S4.kartojasi eiluteje.netinka
+ 1196. -----C8.S5.kartojasi stulpelyje.netinka
+ 1197. -----C8.S6.kartojasi eiluteje.netinka
+ 1198. -----C8.S7.kartojasi eiluteje.netinka
+ 1199. -----C8.S8.kartojasi eiluteje.netinka
+ 1200. -----C8.S9.kartojasi eiluteje.netinka
+ 1201. -----C2.S5.kartojasi stulpelyje.netinka
+ 1202. -----C2.S6.kartojasi eiluteje.netinka
+ 1203. -----C2.S7.kartojasi eiluteje.netinka
+ 1204. -----C2.S8.kartojasi eiluteje.netinka
+ 1205. -----C2.S9.kartojasi kvadrate.netinka
+ 1206. -----C1.S2.kartojasi eiluteje.netinka
+ 1207. -----C1.S3.kartojasi kvadrate.netinka
+ 1208. -----C1.S4.kartojasi stulpelyje.netinka
+ 1209. -----C1.S5.kartojasi stulpelyje.netinka
+ 1210. -----C1.S6.kartojasi eiluteje.netinka
+ 1211. -----C1.S7.kartojasi eiluteje.netinka
+ 1212. -----C1.S8.kartojasi eiluteje.netinka
+ 1213. -----C1.S9.kartojasi stulpelyje.netinka
+ 1214. ----C8.S7.kartojasi eiluteje.netinka
+ 1215. ----C8.S8.kartojasi eiluteje.netinka
+ 1216. ----C8.S9.kartojasi eiluteje.netinka
+ 1217. ----C7.S2.kartojasi eiluteje.netinka
+ 1218. ----C7.S3.kartojasi eiluteje.netinka
+ 1219. ----C7.S4.kartojasi eiluteje.netinka
+ 1220. ----C7.S5.kartojasi eiluteje.netinka
+ 1221. ----C7.S6.kartojasi stulpelyje.netinka
+ 1222. ----C7.S7.kartojasi eiluteje.netinka
+ 1223. ----C7.S8.kartojasi eiluteje.netinka
+ 1224. ----C7.S9.kartojasi eiluteje.netinka
+ 1225. ----C6.S5.kartojasi eiluteje.netinka
+ 1226. ----C6.S6.kartojasi stulpelyje.netinka
+ 1227. ----C6.S7.kartojasi eiluteje.netinka
+ 1228. ----C6.S8.kartojasi eiluteje.netinka
+ 1229. ----C6.S9.kartojasi eiluteje.netinka
+ 1230. ----C5.S4.kartojasi stulpelyje.netinka
+ 1231. ----C5.S5.kartojasi eiluteje.netinka
+ 1232. ----C5.S6.kartojasi stulpelyje.netinka
+ 1233. ----C5.S7.kartojasi eiluteje.netinka
+ 1234. ----C5.S8.kartojasi eiluteje.netinka
+ 1235. ----C5.S9.kartojasi eiluteje.netinka
+ 1236. ----C4.S6.kartojasi stulpelyje.netinka
+ 1237. ----C4.S7.kartojasi eiluteje.netinka
+ 1238. ----C4.S8.kartojasi eiluteje.netinka
+ 1239. ----C4.S9.kartojasi eiluteje.netinka
+ 1240. ----C2.S3.kartojasi stulpelyje.netinka
+ 1241. ----C2.S4.tinka
+ 1242. ----C3.S1.kartojasi stulpelyje.netinka
+ 1243. ----C3.S2.kartojasi stulpelyje.netinka
+ 1244. ----C3.S3.kartojasi stulpelyje.netinka
+ 1245. ----C3.S4.kartojasi eiluteje.netinka
+ 1246. ----C3.S5.kartojasi stulpelyje.netinka
+ 1247. ----C3.S6.kartojasi stulpelyje.netinka
+ 1248. ----C3.S7.kartojasi eiluteje.netinka
+ 1249. ----C3.S8.kartojasi eiluteje.netinka
+ 1250. ----C3.S9.tinka
+ 1251. ----C4.S1.kartojasi stulpelyje.netinka
+ 1252. ----C4.S2.kartojasi stulpelyje.netinka
+ 1253. ----C4.S3.kartojasi stulpelyje.netinka
+ 1254. ----C4.S4.kartojasi eiluteje.netinka
+ 1255. ----C4.S5.tinka
+ 1256. ----C5.S1.kartojasi stulpelyje.netinka
+ 1257. ----C5.S2.kartojasi stulpelyje.netinka
+ 1258. ----C5.S3.tinka
+ 1259. ----C6.S1.kartojasi stulpelyje.netinka
+ 1260. ----C6.S2.kartojasi stulpelyje.netinka
+ 1261. ----C6.S3.kartojasi eiluteje.netinka
+ 1262. ----C6.S4.kartojasi eiluteje.netinka
+ 1263. ----C6.S5.kartojasi eiluteje.netinka
+ 1264. ----C6.S6.kartojasi stulpelyje.netinka
+ 1265. ----C6.S7.kartojasi eiluteje.netinka
+ 1266. ----C6.S8.kartojasi eiluteje.netinka
+ 1267. ----C6.S9.kartojasi eiluteje.netinka
+ 1268. ----C5.S4.kartojasi eiluteje.netinka
+ 1269. ----C5.S5.kartojasi eiluteje.netinka
+ 1270. ----C5.S6.kartojasi stulpelyje.netinka
+ 1271. ----C5.S7.kartojasi eiluteje.netinka
+ 1272. ----C5.S8.kartojasi eiluteje.netinka
+ 1273. ----C5.S9.kartojasi eiluteje.netinka
+ 1274. ----C4.S6.kartojasi stulpelyje.netinka
+ 1275. ----C4.S7.kartojasi eiluteje.netinka
+ 1276. ----C4.S8.kartojasi eiluteje.netinka
+ 1277. ----C4.S9.kartojasi eiluteje.netinka
+ 1278. ----C2.S5.kartojasi stulpelyje.netinka
+ 1279. ----C2.S6.kartojasi stulpelyje.netinka
+ 1280. ----C2.S7.kartojasi eiluteje.netinka
+ 1281. ----C2.S8.kartojasi eiluteje.netinka
+ 1282. ----C2.S9.tinka
+ 1283. ----C3.S1.kartojasi stulpelyje.netinka
+ 1284. ----C3.S2.kartojasi stulpelyje.netinka
+ 1285. ----C3.S3.kartojasi stulpelyje.netinka
+ 1286. ----C3.S4.tinka
+ 1287. ----C4.S1.kartojasi stulpelyje.netinka
+ 1288. ----C4.S2.kartojasi stulpelyje.netinka
+ 1289. ----C4.S3.kartojasi stulpelyje.netinka
+ 1290. ----C4.S4.kartojasi eiluteje.netinka
+ 1291. ----C4.S5.tinka
+ 1292. ----C5.S1.kartojasi stulpelyje.netinka
+ 1293. ----C5.S2.kartojasi stulpelyje.netinka
+ 1294. ----C5.S3.tinka
+ 1295. ----C6.S1.kartojasi stulpelyje.netinka
+ 1296. ----C6.S2.kartojasi stulpelyje.netinka
+ 1297. ----C6.S3.kartojasi eiluteje.netinka
+ 1298. ----C6.S4.kartojasi eiluteje.netinka
+ 1299. ----C6.S5.kartojasi eiluteje.netinka
+ 1300. ----C6.S6.kartojasi stulpelyje.netinka
+ 1301. ----C6.S7.kartojasi eiluteje.netinka
+ 1302. ----C6.S8.kartojasi eiluteje.netinka
+ 1303. ----C6.S9.kartojasi eiluteje.netinka
+ 1304. ----C5.S4.kartojasi eiluteje.netinka
+ 1305. ----C5.S5.kartojasi eiluteje.netinka
+ 1306. ----C5.S6.kartojasi stulpelyje.netinka
+ 1307. ----C5.S7.kartojasi eiluteje.netinka
+ 1308. ----C5.S8.kartojasi eiluteje.netinka
+ 1309. ----C5.S9.kartojasi eiluteje.netinka
+ 1310. ----C4.S6.kartojasi stulpelyje.netinka
+ 1311. ----C4.S7.kartojasi eiluteje.netinka
+ 1312. ----C4.S8.kartojasi eiluteje.netinka
+ 1313. ----C4.S9.kartojasi eiluteje.netinka
+ 1314. ----C3.S5.kartojasi stulpelyje.netinka
+ 1315. ----C3.S6.kartojasi stulpelyje.netinka
+ 1316. ----C3.S7.kartojasi eiluteje.netinka
+ 1317. ----C3.S8.kartojasi eiluteje.netinka
+ 1318. ----C3.S9.kartojasi eiluteje.netinka
+ 1319. ---C9.S5.kartojasi eiluteje.netinka
+ 1320. ---C9.S6.kartojasi eiluteje.netinka
+ 1321. ---C9.S7.kartojasi eiluteje.netinka
+ 1322. ---C9.S8.kartojasi eiluteje.netinka
+ 1323. ---C9.S9.kartojasi eiluteje.netinka
+ 1324. ---C8.S8.kartojasi eiluteje.netinka
+ 1325. ---C8.S9.kartojasi eiluteje.netinka
+ 1326. ---C5.S7.kartojasi stulpelyje.netinka
+ 1327. ---C5.S8.kartojasi eiluteje.netinka
+ 1328. ---C5.S9.kartojasi eiluteje.netinka
+ 1329. ---C2.S4.tinka
+ 1330. ---C5.S1.kartojasi eiluteje.netinka
+ 1331. ---C5.S2.kartojasi eiluteje.netinka
+ 1332. ---C5.S3.tinka
+ 1333. ---C8.S1.kartojasi eiluteje.netinka
+ 1334. ---C8.S2.kartojasi eiluteje.netinka
+ 1335. ---C8.S3.kartojasi eiluteje.netinka
+ 1336. ---C8.S4.kartojasi eiluteje.netinka
+ 1337. ---C8.S5.kartojasi eiluteje.netinka
+ 1338. ---C8.S6.tinka
+ 1339. ---C9.S1.kartojasi eiluteje.netinka
+ 1340. ---C9.S2.kartojasi eiluteje.netinka
+ 1341. ---C9.S3.kartojasi eiluteje.netinka
+ 1342. ---C9.S4.kartojasi eiluteje.netinka
+ 1343. ---C9.S5.kartojasi eiluteje.netinka
+ 1344. ---C9.S6.kartojasi eiluteje.netinka
+ 1345. ---C9.S7.kartojasi stulpelyje.netinka
+ 1346. ---C9.S8.kartojasi eiluteje.netinka
+ 1347. ---C9.S9.kartojasi eiluteje.netinka
+ 1348. ---C8.S7.tinka
+ 1349. ---C9.S1.kartojasi eiluteje.netinka
+ 1350. ---C9.S2.kartojasi eiluteje.netinka
+ 1351. ---C9.S3.kartojasi eiluteje.netinka
+ 1352. ---C9.S4.kartojasi eiluteje.netinka
+ 1353. ---C9.S5.kartojasi eiluteje.netinka
+ 1354. ---C9.S6.tinka
+ 1355. ----C2.S1.tinka
+ 1356. ----C3.S1.kartojasi eiluteje.netinka
+ 1357. ----C3.S2.kartojasi stulpelyje.netinka
+ 1358. ----C3.S3.kartojasi stulpelyje.netinka
+ 1359. ----C3.S4.kartojasi kvadrate.netinka
+ 1360. ----C3.S5.kartojasi stulpelyje.netinka
+ 1361. ----C3.S6.kartojasi stulpelyje.netinka
+ 1362. ----C3.S7.kartojasi eiluteje.netinka
+ 1363. ----C3.S8.kartojasi eiluteje.netinka
+ 1364. ----C3.S9.tinka
+ 1365. ----C4.S1.kartojasi eiluteje.netinka
+ 1366. ----C4.S2.kartojasi stulpelyje.netinka
+ 1367. ----C4.S3.kartojasi stulpelyje.netinka
+ 1368. ----C4.S4.tinka
+ 1369. ----C5.S1.kartojasi eiluteje.netinka
+ 1370. ----C5.S2.kartojasi stulpelyje.netinka
+ 1371. ----C5.S3.kartojasi stulpelyje.netinka
+ 1372. ----C5.S4.kartojasi eiluteje.netinka
+ 1373. ----C5.S5.tinka
+ 1374. ----C6.S1.kartojasi eiluteje.netinka
+ 1375. ----C6.S2.kartojasi stulpelyje.netinka
+ 1376. ----C6.S3.kartojasi stulpelyje.netinka
+ 1377. ----C6.S4.kartojasi eiluteje.netinka
+ 1378. ----C6.S5.kartojasi eiluteje.netinka
+ 1379. ----C6.S6.kartojasi stulpelyje.netinka
+ 1380. ----C6.S7.kartojasi eiluteje.netinka
+ 1381. ----C6.S8.kartojasi eiluteje.netinka
+ 1382. ----C6.S9.kartojasi eiluteje.netinka
+ 1383. ----C5.S6.tinka
+ 1384. ----C6.S1.kartojasi eiluteje.netinka
+ 1385. ----C6.S2.kartojasi stulpelyje.netinka
+ 1386. ----C6.S3.kartojasi stulpelyje.netinka
+ 1387. ----C6.S4.kartojasi eiluteje.netinka
+ 1388. ----C6.S5.kartojasi stulpelyje.netinka
+ 1389. ----C6.S6.kartojasi eiluteje.netinka
+ 1390. ----C6.S7.kartojasi eiluteje.netinka
+ 1391. ----C6.S8.kartojasi eiluteje.netinka
+ 1392. ----C6.S9.kartojasi eiluteje.netinka
+ 1393. ----C5.S7.kartojasi eiluteje.netinka
+ 1394. ----C5.S8.kartojasi eiluteje.netinka
+ 1395. ----C5.S9.kartojasi eiluteje.netinka
+ 1396. ----C4.S5.tinka
+ 1397. ----C5.S1.kartojasi eiluteje.netinka
+ 1398. ----C5.S2.kartojasi stulpelyje.netinka
+ 1399. ----C5.S3.kartojasi stulpelyje.netinka
+ 1400. ----C5.S4.kartojasi stulpelyje.netinka
+ 1401. ----C5.S5.kartojasi eiluteje.netinka
+ 1402. ----C5.S6.tinka
+ 1403. ----C6.S1.kartojasi eiluteje.netinka
+ 1404. ----C6.S2.kartojasi stulpelyje.netinka
+ 1405. ----C6.S3.kartojasi stulpelyje.netinka
+ 1406. ----C6.S4.tinka
+ 1407. ----C7.S1.kartojasi eiluteje.netinka
+ 1408. ----C7.S2.kartojasi stulpelyje.netinka
+ 1409. ----C7.S3.kartojasi stulpelyje.netinka
+ 1410. ----C7.S4.kartojasi eiluteje.netinka
+ 1411. ----C7.S5.kartojasi eiluteje.netinka
+ 1412. ----C7.S6.kartojasi eiluteje.netinka
+ 1413. ----C7.S7.kartojasi eiluteje.netinka
+ 1414. ----C7.S8.kartojasi eiluteje.netinka
+ 1415. ----C7.S9.kartojasi eiluteje.netinka
+ 1416. ----C6.S5.kartojasi eiluteje.netinka
+ 1417. ----C6.S6.kartojasi eiluteje.netinka
+ 1418. ----C6.S7.kartojasi eiluteje.netinka
+ 1419. ----C6.S8.kartojasi eiluteje.netinka
+ 1420. ----C6.S9.kartojasi eiluteje.netinka
+ 1421. ----C5.S7.kartojasi eiluteje.netinka
+ 1422. ----C5.S8.kartojasi eiluteje.netinka
+ 1423. ----C5.S9.kartojasi eiluteje.netinka
+ 1424. ----C4.S6.kartojasi stulpelyje.netinka
+ 1425. ----C4.S7.kartojasi eiluteje.netinka
+ 1426. ----C4.S8.kartojasi eiluteje.netinka
+ 1427. ----C4.S9.kartojasi eiluteje.netinka
+ 1428. ----C2.S2.tinka
+ 1429. ----C3.S1.kartojasi stulpelyje.netinka
+ 1430. ----C3.S2.kartojasi eiluteje.netinka
+ 1431. ----C3.S3.kartojasi stulpelyje.netinka
+ 1432. ----C3.S4.kartojasi kvadrate.netinka
+ 1433. ----C3.S5.kartojasi stulpelyje.netinka
+ 1434. ----C3.S6.kartojasi stulpelyje.netinka
+ 1435. ----C3.S7.kartojasi eiluteje.netinka
+ 1436. ----C3.S8.kartojasi eiluteje.netinka
+ 1437. ----C3.S9.tinka
+ 1438. ----C4.S1.kartojasi stulpelyje.netinka
+ 1439. ----C4.S2.kartojasi eiluteje.netinka
+ 1440. ----C4.S3.kartojasi stulpelyje.netinka
+ 1441. ----C4.S4.tinka
+ 1442. ----C5.S1.kartojasi stulpelyje.netinka
+ 1443. ----C5.S2.kartojasi eiluteje.netinka
+ 1444. ----C5.S3.kartojasi stulpelyje.netinka
+ 1445. ----C5.S4.kartojasi eiluteje.netinka
+ 1446. ----C5.S5.tinka
+ 1447. ----C6.S1.kartojasi stulpelyje.netinka
+ 1448. ----C6.S2.kartojasi eiluteje.netinka
+ 1449. ----C6.S3.kartojasi stulpelyje.netinka
+ 1450. ----C6.S4.kartojasi eiluteje.netinka
+ 1451. ----C6.S5.kartojasi eiluteje.netinka
+ 1452. ----C6.S6.kartojasi stulpelyje.netinka
+ 1453. ----C6.S7.kartojasi eiluteje.netinka
+ 1454. ----C6.S8.kartojasi eiluteje.netinka
+ 1455. ----C6.S9.kartojasi eiluteje.netinka
+ 1456. ----C5.S6.tinka
+ 1457. ----C6.S1.kartojasi stulpelyje.netinka
+ 1458. ----C6.S2.kartojasi eiluteje.netinka
+ 1459. ----C6.S3.kartojasi stulpelyje.netinka
+ 1460. ----C6.S4.kartojasi eiluteje.netinka
+ 1461. ----C6.S5.kartojasi stulpelyje.netinka
+ 1462. ----C6.S6.kartojasi eiluteje.netinka
+ 1463. ----C6.S7.kartojasi eiluteje.netinka
+ 1464. ----C6.S8.kartojasi eiluteje.netinka
+ 1465. ----C6.S9.kartojasi eiluteje.netinka
+ 1466. ----C5.S7.kartojasi eiluteje.netinka
+ 1467. ----C5.S8.kartojasi eiluteje.netinka
+ 1468. ----C5.S9.kartojasi eiluteje.netinka
+ 1469. ----C4.S5.tinka
+ 1470. ----C5.S1.kartojasi stulpelyje.netinka
+ 1471. ----C5.S2.kartojasi eiluteje.netinka
+ 1472. ----C5.S3.kartojasi stulpelyje.netinka
+ 1473. ----C5.S4.kartojasi stulpelyje.netinka
+ 1474. ----C5.S5.kartojasi eiluteje.netinka
+ 1475. ----C5.S6.tinka
+ 1476. ----C6.S1.kartojasi stulpelyje.netinka
+ 1477. ----C6.S2.kartojasi eiluteje.netinka
+ 1478. ----C6.S3.kartojasi stulpelyje.netinka
+ 1479. ----C6.S4.tinka
+ 1480. ----C7.S1.tinka
+ 1481. ----C8.S1.kartojasi eiluteje.netinka
+ 1482. ----C8.S2.kartojasi eiluteje.netinka
+ 1483. ----C8.S3.tinka
+ 1484. -----C1.S1.tinka
+ 1485. -----C2.S1.kartojasi eiluteje.netinka
+ 1486. -----C2.S2.kartojasi eiluteje.netinka
+ 1487. -----C2.S3.tinka
+ 1488. -----C5.S1.kartojasi eiluteje.netinka
+ 1489. -----C5.S2.kartojasi eiluteje.netinka
+ 1490. -----C5.S3.kartojasi eiluteje.netinka
+ 1491. -----C5.S4.kartojasi stulpelyje.netinka
+ 1492. -----C5.S5.kartojasi kvadrate.netinka
+ 1493. -----C5.S6.kartojasi eiluteje.netinka
+ 1494. -----C5.S7.kartojasi eiluteje.netinka
+ 1495. -----C5.S8.kartojasi eiluteje.netinka
+ 1496. -----C5.S9.tinka
+ 1497. -----C8.S1.kartojasi eiluteje.netinka
+ 1498. -----C8.S2.kartojasi eiluteje.netinka
+ 1499. -----C8.S3.kartojasi eiluteje.netinka
+ 1500. -----C8.S4.tinka
+ 1501. -----C9.S1.kartojasi eiluteje.netinka
+ 1502. -----C9.S2.kartojasi eiluteje.netinka
+ 1503. -----C9.S3.kartojasi eiluteje.netinka
+ 1504. -----C9.S4.kartojasi eiluteje.netinka
+ 1505. -----C9.S5.tinka
+ 1506. ------C1.S1.kartojasi stulpelyje.netinka
+ 1507. ------C1.S2.kartojasi eiluteje.netinka
+ 1508. ------C1.S3.tinka
+ 1509. ------C2.S1.tinka
+ 1510. ------C5.S1.kartojasi eiluteje.netinka
+ 1511. ------C5.S2.kartojasi eiluteje.netinka
+ 1512. ------C5.S3.kartojasi eiluteje.netinka
+ 1513. ------C5.S4.kartojasi stulpelyje.netinka
+ 1514. ------C5.S5.kartojasi eiluteje.netinka
+ 1515. ------C5.S6.kartojasi eiluteje.netinka
+ 1516. ------C5.S7.kartojasi stulpelyje.netinka
+ 1517. ------C5.S8.tinka
+ 1518. ------C8.S1.kartojasi eiluteje.netinka
+ 1519. ------C8.S2.kartojasi eiluteje.netinka
+ 1520. ------C8.S3.kartojasi eiluteje.netinka
+ 1521. ------C8.S4.kartojasi stulpelyje.netinka
+ 1522. ------C8.S5.kartojasi eiluteje.netinka
+ 1523. ------C8.S6.kartojasi eiluteje.netinka
+ 1524. ------C8.S7.kartojasi stulpelyje.netinka
+ 1525. ------C8.S8.kartojasi eiluteje.netinka
+ 1526. ------C8.S9.kartojasi eiluteje.netinka
+ 1527. ------C5.S9.kartojasi eiluteje.netinka
+ 1528. ------C2.S2.kartojasi eiluteje.netinka
+ 1529. ------C2.S3.kartojasi eiluteje.netinka
+ 1530. ------C2.S4.kartojasi stulpelyje.netinka
+ 1531. ------C2.S5.kartojasi eiluteje.netinka
+ 1532. ------C2.S6.kartojasi eiluteje.netinka
+ 1533. ------C2.S7.tinka
+ 1534. ------C5.S1.kartojasi stulpelyje.netinka
+ 1535. ------C5.S2.kartojasi eiluteje.netinka
+ 1536. ------C5.S3.kartojasi eiluteje.netinka
+ 1537. ------C5.S4.kartojasi stulpelyje.netinka
+ 1538. ------C5.S5.kartojasi eiluteje.netinka
+ 1539. ------C5.S6.kartojasi eiluteje.netinka
+ 1540. ------C5.S7.kartojasi eiluteje.netinka
+ 1541. ------C5.S8.tinka
+ 1542. ------C8.S1.tinka
+ 1543. ------C9.S1.kartojasi eiluteje.netinka
+ 1544. ------C9.S2.kartojasi eiluteje.netinka
+ 1545. ------C9.S3.kartojasi eiluteje.netinka
+ 1546. ------C9.S4.tinka
+ 1547. -------C2.S1.tinka
+ 1548. -------C3.S1.kartojasi eiluteje.netinka
+ 1549. -------C3.S2.kartojasi eiluteje.netinka
+ 1550. -------C3.S3.kartojasi eiluteje.netinka
+ 1551. -------C3.S4.tinka
+ 1552. -------C5.S1.kartojasi eiluteje.netinka
+ 1553. -------C5.S2.kartojasi eiluteje.netinka
+ 1554. -------C5.S3.kartojasi eiluteje.netinka
+ 1555. -------C5.S4.kartojasi eiluteje.netinka
+ 1556. -------C5.S5.tinka
+ 1557. -------C7.S1.kartojasi eiluteje.netinka
+ 1558. -------C7.S2.kartojasi eiluteje.netinka
+ 1559. -------C7.S3.kartojasi eiluteje.netinka
+ 1560. -------C7.S4.kartojasi eiluteje.netinka
+ 1561. -------C7.S5.kartojasi eiluteje.netinka
+ 1562. -------C7.S6.kartojasi stulpelyje.netinka
+ 1563. -------C7.S7.tinka
+ 1564. -------C8.S1.kartojasi eiluteje.netinka
+ 1565. -------C8.S2.kartojasi eiluteje.netinka
+ 1566. -------C8.S3.kartojasi eiluteje.netinka
+ 1567. -------C8.S4.kartojasi eiluteje.netinka
+ 1568. -------C8.S5.kartojasi eiluteje.netinka
+ 1569. -------C8.S6.tinka
+ 1570. --------C1.S1.kartojasi eiluteje.netinka
+ 1571. --------C1.S2.kartojasi stulpelyje.netinka
+ 1572. --------C1.S3.kartojasi eiluteje.netinka
+ 1573. --------C1.S4.kartojasi stulpelyje.netinka
+ 1574. --------C1.S5.kartojasi eiluteje.netinka
+ 1575. --------C1.S6.tinka
+ 1576. --------C2.S1.kartojasi eiluteje.netinka
+ 1577. --------C2.S2.kartojasi stulpelyje.netinka
+ 1578. --------C2.S3.kartojasi eiluteje.netinka
+ 1579. --------C2.S4.kartojasi stulpelyje.netinka
+ 1580. --------C2.S5.kartojasi eiluteje.netinka
+ 1581. --------C2.S6.kartojasi eiluteje.netinka
+ 1582. --------C2.S7.kartojasi stulpelyje.netinka
+ 1583. --------C2.S8.kartojasi stulpelyje.netinka
+ 1584. --------C2.S9.tinka
+ 1585. --------C4.S1.kartojasi eiluteje.netinka
+ 1586. --------C4.S2.kartojasi stulpelyje.netinka
+ 1587. --------C4.S3.kartojasi eiluteje.netinka
+ 1588. --------C4.S4.tinka
+ 1589. --------C6.S1.kartojasi eiluteje.netinka
+ 1590. --------C6.S2.kartojasi stulpelyje.netinka
+ 1591. --------C6.S3.kartojasi eiluteje.netinka
+ 1592. --------C6.S4.kartojasi eiluteje.netinka
+ 1593. --------C6.S5.kartojasi eiluteje.netinka
+ 1594. --------C6.S6.kartojasi eiluteje.netinka
+ 1595. --------C6.S7.tinka
+ 1596. --------C8.S1.kartojasi eiluteje.netinka
+ 1597. --------C8.S2.kartojasi stulpelyje.netinka
+ 1598. --------C8.S3.kartojasi eiluteje.netinka
+ 1599. --------C8.S4.kartojasi eiluteje.netinka
+ 1600. --------C8.S5.kartojasi eiluteje.netinka
+ 1601. --------C8.S6.kartojasi eiluteje.netinka
+ 1602. --------C8.S7.kartojasi eiluteje.netinka
+ 1603. --------C8.S8.tinka
+ 1604. --------C9.S1.kartojasi eiluteje.netinka
+ 1605. --------C9.S2.tinka

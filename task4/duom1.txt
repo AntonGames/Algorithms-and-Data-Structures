@@ -1,0 +1,17 @@
+Matas  //Siuntejas
+Anton   //Gavejas
+
+//Kaiminystes sarasas
+Vilius - Matas
+Vilius - Agne
+Anton - Matas
+Rokas - Vladimir
+Gustas - Kamile
+Vladimir - Gustas
+
+//Grafas
+Vilius----Matas     Rokas----Vladimir
+  |         |                   |
+  |         |                   |  
+  |         |                   |       
+Agne      Anton     Kamile----Gustas

@@ -1,0 +1,27 @@
+PIRMA DALIS. Duomenys
+
+  1. Anton Zagzin, 4 grupe, 2 pogrupis, 4 uzdavinis, 7 variantas
+  2. Programos tikslas patikrinti ar siuntejas gali gavejui issiusti laiska per pazistamus
+     (Grafo realizacija paremta kaimynystes sarasais; naudoti paieskos i gyli metoda)
+  3. Siuntejas: Matas
+  4. Gavejas: Anton
+
+Vilius----Matas     Rokas----Vladimir
+  |         |                   |
+  |         |                   |  
+  |         |                   |       
+Agne      Anton     Kamile----Gustas
+
+ANTRA DALIS. Vykdymas
+
+  1. Matas. Ne gavejas. Gilyn 
+  2. -Vilius. Ne gavejas. Gilyn 
+  3. --Agne. Ne gavejas. Griztame 
+  4. -Vilius. Griztame 
+  5. Matas. Gilyn 
+  6. -Anton. Gavejas 
+
+TRECIA DALIS. Rezultatai
+
+  1. Matas issiunte laiska gavejui (Anton) 
+  2. Matas -> Anton

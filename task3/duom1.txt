@@ -1,0 +1,9 @@
+150 // VIP frančizė A (Lt)
+50 // kiek atitenka servisui dėl bendradarbiavimo sutarties kaip priedas A1 (Lt)
+100 // frančizė B=A-A1 (Lt)
+40 // serviso darbuotojo valandinė alga U (Lt)
+2 // darbuotojų skaičius K 
+40 // tikimybė procentais, kad mašiną pristatys VIP klientas T1 (%)
+60 // tikimybe procentais, kad mašiną pristatys paprastas klientas T2 (%)
+500 // dienu skaicius
+16 // darbo valandu per diena
