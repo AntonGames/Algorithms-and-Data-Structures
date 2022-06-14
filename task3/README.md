@@ -1,4 +1,4 @@
-Casco insurance / car service (ADT: priority line, big int).
+Casco insurance / car service (ADT: priority line, big integer).
  
 Process 1. The customer insures the machine with casco insurance 
 in a company that has a cooperation agreement with a car repair shop.
